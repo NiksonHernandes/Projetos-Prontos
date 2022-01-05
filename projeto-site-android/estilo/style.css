@@ -1,0 +1,223 @@
+@charset "UTF-8";
+
+/*fonte Bebas Neue - Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pushster&family=Roboto:wght@100&display=swap');
+
+/*fonte Baixada*/
+@font-face {
+    font-family:'Android';
+    src: url('../fontes/idroid.otf') format('opentype');
+    font-weight: normal;
+}
+/*
+16PX = 1EM
+*/
+
+/*Área root do css, para criar variáveis q poderão ser usadas abaixo*/
+:root{
+    --cor0: #607575;
+    --cor1: #7FF5F3;
+    --cor2: #4e9998;
+    --cor3: #CAF7F6;
+    --cor4: #3D7574;
+
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif; 
+    --fonte-destaque: 'Bebas Neue', cursive;
+    --fonte-android: 'Android', cursive;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: var(--cor2);
+    font-family: var(--fonte-padrao);
+}
+
+header{
+    background-image: linear-gradient(to bottom, var(--cor2), var(--cor0) );
+    text-align: center;
+    min-height: 140px;
+    padding-top: 35px;
+    
+}
+
+header >h1{
+    color: white;
+    font-family: var(--fonte-destaque);
+    font-size: 3em;
+    font-weight: normal;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.288); 
+   
+}
+
+header > p{
+    color: white;
+    font-family: var(--fonte-padrao);
+    font-size: 1.2em;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    max-width: 600px;
+    margin: auto;
+    
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.322); 
+}
+
+nav{
+    background-color: var(--cor0);
+    padding: 10px;
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.356);
+    
+}
+
+nav > a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: 0.5s; /*qnd colocar o mouse por cima, ele transiciona em 1seg*/
+ 
+
+}
+
+nav > a:hover{
+    background-color: var(--cor2);
+    color: #93cfcfe8;
+    border-radius: 3px;
+}
+
+main{
+    background-color: white;
+    padding: 20px;
+    min-width: 300px;   
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.418);
+    border-bottom-left-radius: 15px; /*só as bordas de baixo e da esquerda*/
+    border-bottom-right-radius: 15px;
+    
+}
+
+main h1{
+    font-family: var(--fonte-android);
+    color: var(--cor4);
+    font-weight: normal;
+    font-size: 1.8em;
+}
+
+main h2{
+    color: var(--cor2);
+    font-size: 1.4em;
+    font-weight: normal;
+    font-family: var(--fonte-android);
+    background-image: linear-gradient(to right, var(--cor3), transparent);
+    text-indent: 10px;
+}
+
+
+main p {
+    margin: 15px 0px 15px 0px;
+    text-align: justify;
+    text-indent: 30px ;/*recuo no inicio do texto*/
+    font-size: 1em;
+    line-height: 2em;/*altura da linha, entre uma linha e outra*/
+}
+
+main strong{
+    color: var(--cor4);
+    font-weight: bold;
+    
+}
+
+main a{
+    text-decoration: none;
+    color: var(--cor4);
+    font-weight: bold;
+    background-color: var(--cor3);
+    padding: 2px 4px;
+    
+}
+
+main a::after{
+    content: '\00A0\1F517';
+    
+}
+
+main a:hover{
+    text-decoration: underline;
+    color: rgb(31, 58, 57)
+}
+
+main img{
+    width: 100%;
+}
+
+main img.pequena{
+    max-width: 300px;
+    display: block;/*para transformar ela em um bloco e centralizar com margin auto*/
+    margin:auto;
+}
+
+div.video{
+    background-color: var(--cor2);
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+
+    /*reposividade em vídeo*/
+    padding-bottom: 58%;
+    position: relative;
+}
+
+div.video > iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
+main aside{
+    background-color: var(--cor3);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.253);
+}
+
+main h3{
+    background-color: var(--cor4);
+    color: white;
+    padding: 10px;
+    margin: -10px -10px 0px -10px; /*-10 para ele ir para fora*/
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+main aside ul{
+    list-style-type: '\1F916\00A0\00A0'; /*trocar a bolinha que fica na frente de cada item - coloca a barra invertida na frente -> \00A0 é um espaço*/
+    list-style-position: inside ;/*posção da lista - bolinha pro lado de dentro*/
+    columns: 2; /*dividir em colunas*/
+}
+
+footer{
+    background-color: var(--cor0);
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
+}
+
+footer > p > a{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+footer > p > a:hover{
+    text-decoration: underline;
+    color: var(--cor3);
+}
