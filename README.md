@@ -1,2 +1,2 @@
 # Projetos-Prontos
- Projetos com o objetivo de treinar e apreder mais. 
+ Projetos com o objetivo de treinar e aprender mais. 
