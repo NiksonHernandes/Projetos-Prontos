@@ -1,0 +1,61 @@
+﻿@model IEnumerable<projeto_crudMVC_csharp.Entidades.Usuarios>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="card">
+    <div class="card-header">Pesquisar Usuários</div>
+    <div class="card-body">
+        <form action="/Usuarios/Index" method="get">
+            <div class="row">
+                <div class="col-4">
+                    <a href="/Usuarios/Create" class="btn btn-success">Novo usuário</a>
+                </div>
+                <div class="col-4">
+                    <input type="text" name="text" class="form-control" placeholder="Digite sua busca" />
+                </div>
+                <div class="col-4">
+                    <button type="submit" class="btn btn-primary">Pesquisar</button>
+                </div>
+            </div>
+        </form>    
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Login)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Senha)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Login)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Senha)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

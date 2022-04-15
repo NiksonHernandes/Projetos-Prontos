@@ -10,7 +10,6 @@ namespace projeto_crudMVC_csharp.Controllers
     public class ProdutosController : Controller
     {
         //criando uma lista estática:
-
         public static List<ProdutosClass> lsProdutos = new List<ProdutosClass>();
 
 
