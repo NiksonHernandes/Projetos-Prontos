@@ -19,9 +19,18 @@ namespace projeto_crudMVC_csharp.Controllers
         }
 
         // GET: UsuariosController
-        public ActionResult Index()
+        public ActionResult Index(string texto_input)
         {
-            return View(db.USUARIOS.ToList());
+            if (string.IsNullOrEmpty(texto_input))
+            {
+                return View(db.USUARIOS.ToList());
+            }
+            else
+            {
+                return View(db.USUARIOS.Where(a => a.Login.Contains(texto_input) || a.Nome.Contains(texto_input)));
+            }
+
+          
         }
 
         // GET: UsuariosController/Details/5

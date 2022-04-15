@@ -10,10 +10,17 @@
         <form action="/Usuarios/Index" method="get">
             <div class="row">
                 <div class="col-4">
+                   
                     <a href="/Usuarios/Create" class="btn btn-success">Novo usuário</a>
                 </div>
                 <div class="col-4">
-                    <input type="text" name="text" class="form-control" placeholder="Digite sua busca" />
+                    <select name="tipoPesquisa" class="form-control">
+                        <option value="Todos">Pesquisar por todos</option>
+                        <option value="Id">Id</option>
+                        <option value="Nome">Nome</option>
+                        <option value="Email">E-mail</option>
+                    </select>
+                    <input type="text" name="texto_input" class="form-control" placeholder="Digite sua busca" />
                 </div>
                 <div class="col-4">
                     <button type="submit" class="btn btn-primary">Pesquisar</button>
@@ -26,6 +33,9 @@
 <table class="table">
     <thead>
         <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
             <th>
                 @Html.DisplayNameFor(model => model.Nome)
             </th>
@@ -42,6 +52,9 @@
 @foreach (var item in Model) {
         <tr>
             <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
                 @Html.DisplayFor(modelItem => item.Nome)
             </td>
             <td>
@@ -52,7 +65,6 @@
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
