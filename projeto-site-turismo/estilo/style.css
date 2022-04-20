@@ -8,6 +8,20 @@ body{
     background-color: #D2F4FF;
 }
 
+#nav1{
+    background-color: rgb(43, 179, 133);
+    height: 80px;
+}
+#img-header{
+    font-size: 30px;
+    margin-left: 18px;
+}
+
+header nav div div ul li a.nav-link.active.a:hover{
+    color: red;
+}
+
+/*
 header{
     background-image: linear-gradient(to bottom, #8dddf59f, #caeffc);
     text-align: left;
@@ -42,4 +56,4 @@ header a{
 .nav-abaixo{
     background-color: #caeffcda;
     height: 70px;
-}
+}*/
