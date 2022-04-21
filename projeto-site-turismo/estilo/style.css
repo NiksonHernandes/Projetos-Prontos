@@ -10,7 +10,7 @@ body{
 
 #nav1{
     background-color: rgb(43, 179, 133);
-    height: 80px;
+    height: 70px;
 }
 #img-header{
     font-size: 30px;
@@ -21,39 +21,16 @@ header nav div div ul li a.nav-link.active.a:hover{
     color: red;
 }
 
-/*
-header{
-    background-image: linear-gradient(to bottom, #8dddf59f, #caeffc);
-    text-align: left;
-    height: 50px;
+.imagem-fundo{
+    height: 50vh;
+    border: 1px solid red;
+    background-color: black;
+    background-image: url(../imagens/wallpaper002.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;/*deixa a imagem sem rolagem*/
 }
 
-header > h1{
-    margin-left: 34px;
-    font-size: 1.5em;
-    font-weight: normal;
-    margin-bottom: 2px;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.288); 
-}
-header > p{
-    font-size: 0.7em;
-    padding-left: 34px;
-    margin: auto;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.322); 
-}
 
-header > nav{
-    position: relative;
-    text-align: right;
-    bottom: 40px;
-    right: 16px;   
-}
 
-header a{
-    padding: 20px;
-}
-
-.nav-abaixo{
-    background-color: #caeffcda;
-    height: 70px;
-}*/
