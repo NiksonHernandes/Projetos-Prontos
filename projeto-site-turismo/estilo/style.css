@@ -22,7 +22,8 @@ header nav div div ul li a.nav-link.active.a:hover{
 }
 
 .imagem-fundo{
-    height: 50vh;
+    min-height: 57vh;
+    max-height: 90vh;
     border: 1px solid red;
     background-color: black;
     background-image: url(../imagens/wallpaper002.jpg);
