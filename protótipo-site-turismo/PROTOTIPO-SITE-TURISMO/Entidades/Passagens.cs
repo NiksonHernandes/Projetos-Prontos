@@ -9,7 +9,7 @@ namespace PROTOTIPO_SITE_TURISMO.Entidades
     {
         public int Id { get; set; }
         public string Cidade { get; set; }
-        public int Preco { get; set; }
+        public decimal Preco { get; set; }
         public string Detalhes { get; set; }
     }
 }

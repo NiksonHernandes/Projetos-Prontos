@@ -32,6 +32,11 @@ namespace PROTOTIPO_SITE_TURISMO.Controllers
             else if(itembusca == "Cidade")
             {
                 return View(db.PASSAGENS.Where(a => a.Cidade.Contains(query)));
+
+            }else if (itembusca == "Preco")
+            {
+                
+                return View(db.PASSAGENS.Where(a => a.Preco == System.Convert.ToDecimal(query))); 
             }
             else
             {

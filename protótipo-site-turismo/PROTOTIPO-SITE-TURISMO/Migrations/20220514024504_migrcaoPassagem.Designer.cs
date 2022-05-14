@@ -8,8 +8,8 @@ using PROTOTIPO_SITE_TURISMO;
 namespace PROTOTIPO_SITE_TURISMO.Migrations
 {
     [DbContext(typeof(Contexto))]
-    [Migration("20220514022010_migracaoPassagens")]
-    partial class migracaoPassagens
+    [Migration("20220514024504_migrcaoPassagem")]
+    partial class migrcaoPassagem
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -50,8 +50,8 @@ namespace PROTOTIPO_SITE_TURISMO.Migrations
                     b.Property<string>("Detalhes")
                         .HasColumnType("text");
 
-                    b.Property<int>("Preco")
-                        .HasColumnType("int");
+                    b.Property<decimal>("Preco")
+                        .HasColumnType("decimal(18, 2)");
 
                     b.HasKey("Id");
 
