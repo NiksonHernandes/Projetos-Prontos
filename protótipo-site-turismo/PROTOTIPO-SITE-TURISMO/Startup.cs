@@ -25,6 +25,11 @@ namespace PROTOTIPO_SITE_TURISMO
         {
             services.AddControllersWithViews();
             services.AddDbContext<Contexto>(a => a.UseMySQL("server=localhost;database=prototipoTurismo;user=root;password=;SslMode=none"));
+            services.AddAuthentication("CookieAuthentication").AddCookie("CookieAuthentication", options =>
+            {
+                options.AccessDeniedPath = "/Login/Ops/";
+                options.LoginPath = "/Login/Entrar/";
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,6 +48,8 @@ namespace PROTOTIPO_SITE_TURISMO
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {

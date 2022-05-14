@@ -38,10 +38,21 @@ namespace PROTOTIPO_SITE_TURISMO.Controllers
         // POST: UsuariosController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Usuarios collection)
+        public ActionResult Create(Usuarios collection, Usuarios dadosTela)
         {
             try
             {
+                if (string.IsNullOrEmpty(dadosTela.Login))
+                {
+                    TempData["erro"] = "Campo de login não pode estar em branco!";
+                    return View();
+
+                }
+                if (string.IsNullOrEmpty(dadosTela.Senha))
+                {
+                    TempData["erro"] = "Campo de senha não pode estar em branco!";
+                    return View();
+                }
                 db.USUARIOS.Add(collection);
                 db.SaveChanges();
                 return RedirectToAction(nameof(Index));

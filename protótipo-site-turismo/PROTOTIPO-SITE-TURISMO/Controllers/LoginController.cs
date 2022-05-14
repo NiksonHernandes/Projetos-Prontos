@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PROTOTIPO_SITE_TURISMO.Entidades;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace PROTOTIPO_SITE_TURISMO.Controllers
@@ -39,27 +41,39 @@ namespace PROTOTIPO_SITE_TURISMO.Controllers
         // POST: LoginController/Entrar
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Entrar(string Usuario, string Senha)
+        public async Task<ActionResult> Entrar(string Usuario, string Senha)
         {
-            if (Usuario == "admin" && Senha == "admin")
+            if (string.IsNullOrEmpty(Usuario) || string.IsNullOrEmpty(Senha))
             {
-                return RedirectToAction("Index");
-
-            }
-            else
-            {
-                return RedirectToAction("NaoLogado");
-            }
-            /*try
-            {
-                //db.LOGIN.Find(collection)
-                //db.SaveChanges();
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
+                TempData["erro"] = "Campo vazio. Tente novamente";
                 return View();
-            }*/
+            }
+
+            Entidades.Login usuarioLogado = db.LOGIN.Where(a => a.Usuario == Usuario && a.Senha == Senha).FirstOrDefault();
+
+            if(usuarioLogado == null)
+            {
+                TempData["erro"] = "Usuário ou senha inválido";
+                return View();
+            }
+
+            var claims = new List<Claim>();
+            claims.Add(new Claim(ClaimTypes.Name, usuarioLogado.Nome));
+            claims.Add(new Claim(ClaimTypes.Sid, usuarioLogado.Id.ToString()));
+
+            var userIdentity = new ClaimsIdentity(claims, "Acesso");
+            ClaimsPrincipal principal = new ClaimsPrincipal(userIdentity);
+            await HttpContext.SignInAsync("CookieAuthentication", principal, new AuthenticationProperties());
+
+            return Redirect("/Passagens/Index");
+      
+        }
+
+        public async Task<ActionResult> Logoff() //deslogar
+        {
+            await HttpContext.SignOutAsync("CookieAuthentication");
+            ViewData["ReturnUrl"] = "/";
+            return Redirect("/Login/Entrar");
         }
 
         // GET: LoginController/CriarConta
@@ -71,10 +85,32 @@ namespace PROTOTIPO_SITE_TURISMO.Controllers
         // POST: LoginController/CriarConta
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult CriarConta(Login collection)
+        public ActionResult CriarConta(Login collection, Login dadosTela)
         {
             try
             {
+                if (string.IsNullOrEmpty(dadosTela.Nome) && string.IsNullOrEmpty(dadosTela.Usuario) && string.IsNullOrEmpty(dadosTela.Senha))
+                {
+                    TempData["erro"] = "Todos os campos em branco!";
+                    return View();
+                }if (string.IsNullOrEmpty(dadosTela.Nome))
+                {
+                    TempData["erro"] = "Campo de nome não pode estar em branco!";
+                    return View();
+                }
+                if (string.IsNullOrEmpty(dadosTela.Usuario))
+                {
+                    TempData["erro"] = "Campo de login não pode estar em branco!";
+                    return View();
+
+                }
+                if (string.IsNullOrEmpty(dadosTela.Senha))
+                {
+                    TempData["erro"] = "Campo de senha não pode estar em branco!";
+                    return View();
+
+                }
+                
                 db.LOGIN.Add(collection);
                 db.SaveChanges();
                 return RedirectToAction("Entrar");

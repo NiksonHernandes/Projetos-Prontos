@@ -5,9 +5,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace PROTOTIPO_SITE_TURISMO.Controllers
 {
+    //proteção de rota
+    [Authorize(AuthenticationSchemes = "CookieAuthentication")]
+
     public class PassagensController : Controller
     {
         private readonly Contexto db;

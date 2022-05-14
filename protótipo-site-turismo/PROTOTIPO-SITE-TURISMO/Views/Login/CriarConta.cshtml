@@ -24,13 +24,20 @@
             </div>
             <div class="form-group">
                 <!--
-                <label asp-for="Senha" class="control-label"></label>-->
+        <label asp-for="Senha" class="control-label"></label>-->
                 <input asp-for="Senha" type="password" class="form-control" placeholder="Senha" />
                 <span asp-validation-for="Senha" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <button type="submit" class="btn btn-primary"> Criar</button>
             </div>
+            @if (TempData["erro"] != null)
+            {
+                <hr />
+                <div class="alert alert-danger">
+                    @TempData["erro"]
+                </div>
+            }
         </form>
     </div>
 </div>
