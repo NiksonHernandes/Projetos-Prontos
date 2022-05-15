@@ -2,7 +2,83 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@model IEnumerable<PROTOTIPO_SITE_TURISMO.Entidades.Passagens>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<!--Card-->
+<div class="container-xxl">
+    <div class="row my-5">
+        <div class="col"></div>
+        <div class="col-sm-12">
+            <div class="card ">
+                <div class="card-body ">
+                    <form action="/PassagemCompleta/Index" method="get">
+                        <h5 class="card-title fs-3">PASSAGENS AÉREAS</h5>
+                        <div class="row">
+                            <div class="col-md-3">
+                                <label for="exampleDataList" class="form-label" style="font-size: 13px;">
+                                    De onde você está
+                                    saindo?
+                                </label>
+                                <input name="queryCidadeSaida" type="text" class="form-control fst-italic" list="datalistOptions" id="exampleDataList"
+                                       placeholder="Busque por aeroporto">
+                                <datalist id="datalistOptions">
+                                    <option value="São Francisco " />
+                                    <option value="New York" />
+                                    <option value="Seattle" />
+                                    <option value="Los Angeles" />
+                                    <option value="Chicago" />
+                                </datalist>
+                            </div>
+
+                            <div class="col-md-2">
+                                <label class="form-label" style="font-size: 13px;">Para onde você vai?</label>
+                                <input name="queryCidadeChegada" type="text" class="form-control fst-italic" list="datalistOptions" id="exampleDataList"
+                                       placeholder="Busque por aeroporto">
+                                <datalist id="datalistOptions">
+                                    <option value="San Francisco " />
+                                    <option value="New York" />
+                                    <option value="Seattle" />
+                                    <option value="Los Angeles" />
+                                    <option value="Chicago" />
+                                </datalist>
+                            </div>
+                            <div class="col-sm-2">
+                                <label class="form-label" style="font-size: 13px;">Escolha as datas</label>
+                                <div class="input-group sm-2">
+                                    <input name="query" type="text" class="form-control fst-italic" placeholder="Ida">
+                                    <span></span>
+                                    <input name="query" type="text" class="form-control fst-italic" placeholder="Volta">
+                                </div>
+                            </div>
+                            <div class="col-sm-2">
+                                <label class="form-label" style="font-size: 13px;">Passageiros</label>
+                                <div class="input-group sm-2">
+                                    <input type="text" class="form-control fst-italic p" placeholder="1 Passageiro">
+                                </div>
+                            </div>
+                            <div class="col-sm-2">
+                                <label class="form-label"></label>
+                                <div>
+                                    <button type="submit" class="btn btn-primary btn-lg" style="border-radius: 10px; font-size: 18px;">BUSCAR VOOS</button>
+                                </div>
+                            </div>
+                        </div>
+                        @if (TempData["erro"] != null)
+                        {
+                            <hr />
+                            <div class="alert alert-danger">
+                                @TempData["erro"]
+                            </div>
+                        }
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col"></div>
+    </div>
+</div>    

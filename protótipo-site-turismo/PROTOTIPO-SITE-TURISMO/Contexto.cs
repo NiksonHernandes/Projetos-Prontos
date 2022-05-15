@@ -13,6 +13,7 @@ namespace PROTOTIPO_SITE_TURISMO
         public DbSet<Usuarios> USUARIOS { get; set; }
         public DbSet<Login> LOGIN { get; set; }
         public DbSet<Passagens> PASSAGENS { get; set; }
+        public DbSet<PassagemCompleta> PASSAGEMCOMPLETA { get; set; }
         public DbSet<PROTOTIPO_SITE_TURISMO.Entidades.Passagens> Passagens { get; set; }
     }
 }
