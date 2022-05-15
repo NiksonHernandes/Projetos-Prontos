@@ -16,7 +16,7 @@
         <div class="col-sm-12">
             <div class="card ">
                 <div class="card-body ">
-                    <form action="/PassagemCompleta/Index" method="get">
+                    <form action="/PassagemCompleta/Pesquisa" method="get">
                         <h5 class="card-title fs-3">PASSAGENS AÉREAS</h5>
                         <div class="row">
                             <div class="col-md-3">
@@ -35,7 +35,7 @@
                                 </datalist>
                             </div>
 
-                            <div class="col-md-2">
+                            <div class="col-md-3">
                                 <label class="form-label" style="font-size: 13px;">Para onde você vai?</label>
                                 <input name="queryCidadeChegada" type="text" class="form-control fst-italic" list="datalistOptions" id="exampleDataList"
                                        placeholder="Busque por aeroporto">
@@ -50,17 +50,12 @@
                             <div class="col-sm-2">
                                 <label class="form-label" style="font-size: 13px;">Escolha as datas</label>
                                 <div class="input-group sm-2">
-                                    <input name="query" type="text" class="form-control fst-italic" placeholder="Ida">
+                                    <input name="queryDataSaida" type="text" class="form-control fst-italic" placeholder="Ida">
                                     <span></span>
-                                    <input name="query" type="text" class="form-control fst-italic" placeholder="Volta">
+                                    <input name="queryDataChegada" type="text" class="form-control fst-italic" placeholder="Volta">
                                 </div>
                             </div>
-                            <div class="col-sm-2">
-                                <label class="form-label" style="font-size: 13px;">Passageiros</label>
-                                <div class="input-group sm-2">
-                                    <input type="text" class="form-control fst-italic p" placeholder="1 Passageiro">
-                                </div>
-                            </div>
+                           
                             <div class="col-sm-2">
                                 <label class="form-label"></label>
                                 <div>
@@ -68,13 +63,7 @@
                                 </div>
                             </div>
                         </div>
-                        @if (TempData["erro"] != null)
-                        {
-                            <hr />
-                            <div class="alert alert-danger">
-                                @TempData["erro"]
-                            </div>
-                        }
+   
                     </form>
                 </div>
             </div>

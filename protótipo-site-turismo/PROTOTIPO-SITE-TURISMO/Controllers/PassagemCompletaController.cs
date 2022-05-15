@@ -18,23 +18,46 @@ namespace PROTOTIPO_SITE_TURISMO.Controllers
         }
 
         // GET: PassagemCompletaController
-        public ActionResult Index(string queryCidadeSaida, string queryCidadeChegada)
+        public IActionResult Pesquisa(string queryCidadeSaida, string queryCidadeChegada,
+            string queryDataSaida, string queryDataChegada)
         {
 
             if (!(string.IsNullOrEmpty(queryCidadeSaida)))//se query for vazia ou nula, retorna lista de passagens
             {
                 return View(db.PASSAGEMCOMPLETA.Where(a => a.CidadeSaida.Contains(queryCidadeSaida)));
-
             }
             if (!(string.IsNullOrEmpty(queryCidadeChegada)))
             {
                 return View(db.PASSAGEMCOMPLETA.Where(a => a.CidadeChegada.Contains(queryCidadeChegada)));
             }
+            if (!(string.IsNullOrEmpty(queryDataSaida)))
+            {
+                return View(db.PASSAGEMCOMPLETA.Where(a => a.DataSaida.Contains(queryDataSaida)));
+            }
+            if (!(string.IsNullOrEmpty(queryDataChegada)))
+            {
+                return View(db.PASSAGEMCOMPLETA.Where(a => a.DataChegada.Contains(queryDataChegada)));
+            }
             else
             {
                 return View(db.PASSAGEMCOMPLETA.ToList());
             }
+
         }
+        
+        [HttpPost]
+        public ActionResult Pesquisa(string queryDataSaida)
+        {
+            if (string.IsNullOrEmpty(queryDataSaida))
+            {
+                TempData["erro"] = "Campo vazio. Tente novamente";
+                return View();
+            }
+
+
+            return View();
+        }//ÑÃO ESTA FUNCIONANDO - PAREI AQUI - IMPLEMENTAR FEEDBACK
+
 
         // GET: PassagemCompletaController/Details/5
         public ActionResult Details(int id)

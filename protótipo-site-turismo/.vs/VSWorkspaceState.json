@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\PROTOTIPO-SITE-TURISMO",
-    "\\PROTOTIPO-SITE-TURISMO\\Controllers"
+    "\\PROTOTIPO-SITE-TURISMO\\Controllers",
+    "\\PROTOTIPO-SITE-TURISMO\\Views",
+    "\\PROTOTIPO-SITE-TURISMO\\Views\\Shared"
   ],
-  "SelectedNode": "\\PROTOTIPO-SITE-TURISMO\\Controllers\\PassagensController.cs",
+  "SelectedNode": "\\PROTOTIPO-SITE-TURISMO\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }

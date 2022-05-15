@@ -45,6 +45,13 @@
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
+            @if (TempData["erro"] != null)
+            {
+                <hr />
+                <div class="alert alert-danger" style="margin-bottom: 0px;">
+                    @TempData["erro"]
+                </div>
+            }
         </form>
     </div>
 </div>

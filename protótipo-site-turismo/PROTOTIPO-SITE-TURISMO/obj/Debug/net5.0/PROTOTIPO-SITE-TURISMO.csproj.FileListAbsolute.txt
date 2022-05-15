@@ -161,5 +161,5 @@ C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\protótipo-site-turism
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\protótipo-site-turismo\PROTOTIPO-SITE-TURISMO\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\protótipo-site-turismo\PROTOTIPO-SITE-TURISMO\obj\Debug\net5.0\Razor\Views\Passagens\Index.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\protótipo-site-turismo\PROTOTIPO-SITE-TURISMO\obj\Debug\net5.0\Razor\Views\Passagens\Create.cshtml.g.cs
-C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\protótipo-site-turismo\PROTOTIPO-SITE-TURISMO\obj\Debug\net5.0\Razor\Views\PassagemCompleta\Index.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\protótipo-site-turismo\PROTOTIPO-SITE-TURISMO\obj\Debug\net5.0\Razor\Views\PassagemCompleta\Create.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\protótipo-site-turismo\PROTOTIPO-SITE-TURISMO\obj\Debug\net5.0\Razor\Views\PassagemCompleta\Pesquisa.cshtml.g.cs

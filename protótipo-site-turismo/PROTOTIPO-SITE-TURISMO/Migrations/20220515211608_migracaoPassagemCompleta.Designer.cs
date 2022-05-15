@@ -8,7 +8,7 @@ using PROTOTIPO_SITE_TURISMO;
 namespace PROTOTIPO_SITE_TURISMO.Migrations
 {
     [DbContext(typeof(Contexto))]
-    [Migration("20220515174159_migracaoPassagemCompleta")]
+    [Migration("20220515211608_migracaoPassagemCompleta")]
     partial class migracaoPassagemCompleta
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
