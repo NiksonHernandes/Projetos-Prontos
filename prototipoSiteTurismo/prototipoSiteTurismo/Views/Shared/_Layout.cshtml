@@ -1,17 +1,57 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - prototipoSiteTurismo</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+
+
+        body{
+            background-color: #D2F4FF;
+        }
+
+        .imagem-fundo {
+            min-height: 57vh;
+            max-height: 95vh;
+            box-shadow: inset 0 0 1px black;
+            border: 1px solid rgb(185, 185, 185);
+            background-color: blue;
+            background-image: url("wallpaper002.jpg");
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed; /*deixa a imagem sem rolagem*/
+        }
+
+        #nav1 {
+            background-color: rgb(43, 179, 133);
+            height: 70px;
+         
+        }
+
+        #img-header {
+            font-size: 30px;
+            margin-left: 18px;
+        }
+
+        header nav div div ul li a.nav-link.active.a:hover {
+            color: red;
+        }
+
+    </style>
+    @RenderSection("css", false)
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        @*<nav class="navbar navbar-expand-md navbar-toggleable-md navbar-light bg-white border-bottom box-shadow mb-3" >
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">prototipoSiteTurismo</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Passagem" asp-action="Index">
+                    <img src="~/favicon-avião.ico" alt="Imagem" width="50" height="38" class="d-inline-block align-text-top">
+                    POUSAR.COM
+                </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -33,13 +73,85 @@
                     </ul>
                 </div>
             </div>
+        </nav>*@
+      
+        <nav class="navbar navbar-expand-lg navbar-light" id="nav1">
+            <!--nav-1-->
+            <div class="container-fluid">
+                <a class="navbar-brand" id="img-header" asp-controller="Passagem" asp-action="Index">
+                    <!--imagem-->
+                    <img src="~/favicon-avião.ico" alt="Imagem" width="50" height="38" class="d-inline-block align-text-top">
+                    Pousar.com
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                    <ul class="navbar-nav fs-5 sm-2" style="padding-right: 80px;">
+                  
+                        <li class="nav-item" style="padding:0 15px 0 15px;">
+                            <a  class="nav-link active a" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="PesquisarPassagem">Pesquisar Passagem</a>
+                        </li>
+                        <li class="nav-item"  style="padding:0 15px 0 15px;">
+                            <a class="nav-link active a" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="CriarPassagem">Criar Passagem</a>
+                        </li>
+                        <li class="nav-item" style="padding:0 15px 0 15px;">
+                            <a class="nav-link active a" aria-current="page" href="#" id="link-menu">VOOS</a>
+                        </li>
+                        @*<li class="nav-item" style="padding:0 15px 0 15px;">
+                            <a class="nav-link active a" aria-current="page" href="#" id="link-menu">OFERTAS</a>
+                        </li>*@
+                        <li class="nav-item" style="padding:0 45px 0 15px;">
+                            <a class="nav-link active a" href="#" id="link-menu">PACOTES</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <!--Dropbox-->
+                            <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                MENU
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="height: auto; max-width: 195px;">
+                                <li><a class="dropdown-item fs-5 text-wrap" href="#">Blog escrito grande </a></li>
+                                <li><a class="dropdown-item fs-5 text-wrap" href="#">Ajuda</a></li>
+                                <li><hr class="dropdown-divider "></li>
+                                <li><a class="dropdown-item fs-5 text-wrap" href="#">OK</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+    <main>
+
+        <div class="imagem-fundo">
+            <!--Card-->
+            <div class="container-xxl">
+                <div class="row my-5">
+                    <div class="col"></div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="container">
+                                <main role="main" class="pb-3">
+                                    @RenderBody();
+                                </main>
+                            </div>
+                        </div> 
+
+                    </div>
+                    <div class="col"></div>
+                </div>
+            </div>
+        </div>
+       
+        <p style="margin-top: 3%;">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi voluptas accusamus sit harum accusantium asperiores, atque quod maiores architecto autem vero dignissimos cum sapiente quis! Placeat nulla veritatis modi similique?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio sit autem provident consectetur itaque vero asperiores, sequi nihil totam obcaecati consequatur, animi quod amet veniam illo hic explicabo dicta quia?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, dolores, autem labore, nihil inventore quo dicta cumque eum omnis architecto perferendis sapiente laudantium maiores voluptate animi reprehenderit tempore fuga vel.
+        </p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum obcaecati praesentium, doloremque neque quisquam in temporibus, quod quibusdam dolorum sequi voluptatum eos quidem ex deserunt sapiente inventore non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iure, iste aspernatur commodi in, quisquam nulla ut molestias eveniet fugiat sint, veniam ullam fugit. Voluptatum a possimus nam nobis obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod illum fugit eius unde odit sit eligendi consequuntur consectetur dolor, minima dignissimos sed fugiat, dolore quasi vero laboriosam? Odio, corporis earum. </p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum obcaecati praesentium, doloremque neque quisquam in temporibus, quod quibusdam dolorum sequi voluptatum eos quidem ex deserunt sapiente inventore non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iure, iste aspernatur commodi in, quisquam nulla ut molestias eveniet fugiat sint, veniam ullam fugit. Voluptatum a possimus nam nobis obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod illum fugit eius unde odit sit eligendi consequuntur consectetur dolor, minima dignissimos sed fugiat, dolore quasi vero laboriosam? Odio, corporis earum. </p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum obcaecati praesentium, doloremque neque quisquam in temporibus, quod quibusdam dolorum sequi voluptatum eos quidem ex deserunt sapiente inventore non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iure, iste aspernatur commodi in, quisquam nulla ut molestias eveniet fugiat sint, veniam ullam fugit. Voluptatum a possimus nam nobis obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod illum fugit eius unde odit sit eligendi consequuntur consectetur dolor, minima dignissimos sed fugiat, dolore quasi vero laboriosam? Odio, corporis earum. </p>
+    </main>
 
     <footer class="border-top footer text-muted">
         <div class="container">

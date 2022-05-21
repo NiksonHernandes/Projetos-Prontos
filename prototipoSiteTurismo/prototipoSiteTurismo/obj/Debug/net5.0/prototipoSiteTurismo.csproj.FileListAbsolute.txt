@@ -155,3 +155,4 @@ C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\p
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.genruntimeconfig.cache
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\PesquisarPassagem.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\CriarPassagem.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\Index.cshtml.g.cs
