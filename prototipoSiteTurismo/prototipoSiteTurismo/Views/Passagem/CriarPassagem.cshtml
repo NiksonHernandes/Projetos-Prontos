@@ -1,0 +1,58 @@
+﻿@model prototipoSiteTurismo.Entidades.Passagem
+
+@{
+    ViewData["Title"] = "CriarPassagem";
+}
+
+<h1>CriarPassagem</h1>
+
+<h4>Passagem</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CriarPassagem">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CidadeSaida" class="control-label"></label>
+                <input asp-for="CidadeSaida" class="form-control" />
+                <span asp-validation-for="CidadeSaida" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CidadeChegada" class="control-label"></label>
+                <input asp-for="CidadeChegada" class="form-control" />
+                <span asp-validation-for="CidadeChegada" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataSaida" class="control-label"></label>
+                <input asp-for="DataSaida" class="form-control" />
+                <span asp-validation-for="DataSaida" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataChegada" class="control-label"></label>
+                <input asp-for="DataChegada" class="form-control" />
+                <span asp-validation-for="DataChegada" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Preco" class="control-label"></label>
+                <input asp-for="Preco" class="form-control" />
+                <span asp-validation-for="Preco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Detalhes" class="control-label"></label>
+                <input asp-for="Detalhes" class="form-control" />
+                <span asp-validation-for="Detalhes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
