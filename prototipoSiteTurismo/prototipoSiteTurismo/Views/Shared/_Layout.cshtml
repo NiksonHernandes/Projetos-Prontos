@@ -7,12 +7,15 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
     <style>
-
-
-        body{
-            background-color: #D2F4FF;
+        * {
+            margin: 0px;
+            padding: 0px;
         }
+        body {
+            background-color: #D2F4FF;
 
+        }
+        
         .imagem-fundo {
             min-height: 57vh;
             max-height: 95vh;
@@ -47,34 +50,34 @@
 <body>
     <header>
         @*<nav class="navbar navbar-expand-md navbar-toggleable-md navbar-light bg-white border-bottom box-shadow mb-3" >
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Passagem" asp-action="Index">
-                    <img src="~/favicon-avião.ico" alt="Imagem" width="50" height="38" class="d-inline-block align-text-top">
-                    POUSAR.COM
-                </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Passagem" asp-action="PesquisarPassagem">Pesquisar Passagem</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Passagem" asp-action="CriarPassagem">Criar Passagem</a>
-                        </li>
-                    </ul>
+                <div class="container">
+                    <a class="navbar-brand" asp-area="" asp-controller="Passagem" asp-action="Index">
+                        <img src="~/favicon-avião.ico" alt="Imagem" width="50" height="38" class="d-inline-block align-text-top">
+                        POUSAR.COM
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Passagem" asp-action="PesquisarPassagem">Pesquisar Passagem</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Passagem" asp-action="CriarPassagem">Criar Passagem</a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
-            </div>
-        </nav>*@
-      
+            </nav>*@
+
         <nav class="navbar navbar-expand-lg navbar-light" id="nav1">
             <!--nav-1-->
             <div class="container-fluid">
@@ -88,19 +91,16 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                     <ul class="navbar-nav fs-5 sm-2" style="padding-right: 80px;">
-                  
+
                         <li class="nav-item" style="padding:0 15px 0 15px;">
-                            <a  class="nav-link active a" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="PesquisarPassagem">Pesquisar Passagem</a>
+                            <a class="nav-link active a" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="PesquisarPassagem">Pesquisar Passagem</a>
                         </li>
-                        <li class="nav-item"  style="padding:0 15px 0 15px;">
+                        <li class="nav-item" style="padding:0 15px 0 15px;">
                             <a class="nav-link active a" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="CriarPassagem">Criar Passagem</a>
                         </li>
                         <li class="nav-item" style="padding:0 15px 0 15px;">
                             <a class="nav-link active a" aria-current="page" href="#" id="link-menu">VOOS</a>
                         </li>
-                        @*<li class="nav-item" style="padding:0 15px 0 15px;">
-                            <a class="nav-link active a" aria-current="page" href="#" id="link-menu">OFERTAS</a>
-                        </li>*@
                         <li class="nav-item" style="padding:0 45px 0 15px;">
                             <a class="nav-link active a" href="#" id="link-menu">PACOTES</a>
                         </li>
@@ -109,7 +109,7 @@
                             <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 MENU
                             </a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="height: auto; max-width: 195px;">
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="height: auto;">
                                 <li><a class="dropdown-item fs-5 text-wrap" href="#">Blog escrito grande </a></li>
                                 <li><a class="dropdown-item fs-5 text-wrap" href="#">Ajuda</a></li>
                                 <li><hr class="dropdown-divider "></li>
@@ -124,25 +124,115 @@
     <main>
 
         <div class="imagem-fundo">
+            <div class="container">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
             <!--Card-->
-            <div class="container-xxl">
-                <div class="row my-5">
-                    <div class="col"></div>
-                    <div class="col-sm-12">
-                        <div class="row">
-                            <div class="container">
-                                <main role="main" class="pb-3">
-                                    @RenderBody();
-                                </main>
-                            </div>
-                        </div> 
+            @*<div class="container-xxl">
+            <div class="row my-5">
+                <div class="col"></div>
+                <div class="col-sm-12">
+                    <div class="row">
+                        <div class="container">
+                            <main role="main" class="pb-3">
+                                @RenderBody()
+                            </main>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col"></div>
+            </div>
+        </div>*@
+        </div>
+
+        <hr/>
+
+        @*<div class="container-xxl">
+            <div class="row align-items-center">
+                <div class="col"></div>
+                <div class="col-sm-11">
+                    <div class="card border border-warning border-3 rounded-3">
+                        <div class="card-body text-center" style="padding: 25px 0px 25px 0px;">
+                            ANÚNCIO AQUI
+                        </div>
+                    </div>
+                </div>
+                <div class="col"></div>
+            </div>
+            <div class="row mt-5 text-center">
+                <div class="col"></div>
+                <div class="col-3">
+                    <div class="card border border-warning border-3 rounded-3 py-5">
+                        <div class="card-body">
+                            ok
+                        </div>
 
                     </div>
-                    <div class="col"></div>
+                </div>
+                <div class="col"></div>
+                <div class="col-3">
+                    <div class="card border border-warning border-3 rounded-3 py-5">
+                        <div class="card-body ">
+                            padding interno com py-5
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col"></div>
+                <div class="col-3">
+                    <div class="card border border-warning border-3 rounded-3" style="padding: 50px 0px 25px 0px;">
+                        <div class="card-body">
+                            padding interno com style
+                        </div>
+                        <div class="d-grid gap-2 col-8 mx-auto">
+                            <button type="button" class="btn btn-primary border border-primary mx-5 mt-2">ok</button>
+                        </div>
+
+                    </div>
                 </div>
             </div>
+
+        </div>*@
+        <hr/>
+        @*<div class="container-xxl">
+
+            <div style="padding: 25px 0px 20px 0px; font-size: x-large;">
+                OS MELHORES PACOTES PARA 2022 EM ATÉ 12X
+            </div>
+
+            <div class="row mt-5 text-center">
+                <div class="col-4">
+                    <div class="card border border-warning border-3 rounded-3 py-5">
+                        <div class="card-body">
+                            ok
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="card border border-warning border-3 rounded-3 py-5">
+                        <div class="card-body ">
+                            padding interno com py-5
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="card border border-warning border-3 rounded-3" style="padding: 50px 0px 25px 0px;">
+                        <div class="card-body">
+                            padding interno com style
+                        </div>
+                        <div class="d-grid gap-2 col-8 mx-auto">
+                            <button type="button" class="btn btn-primary border border-primary mx-5 mt-2">ok</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
         </div>
-       
         <p style="margin-top: 3%;">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi voluptas accusamus sit harum accusantium asperiores, atque quod maiores architecto autem vero dignissimos cum sapiente quis! Placeat nulla veritatis modi similique?
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio sit autem provident consectetur itaque vero asperiores, sequi nihil totam obcaecati consequatur, animi quod amet veniam illo hic explicabo dicta quia?
@@ -150,14 +240,60 @@
         </p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum obcaecati praesentium, doloremque neque quisquam in temporibus, quod quibusdam dolorum sequi voluptatum eos quidem ex deserunt sapiente inventore non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iure, iste aspernatur commodi in, quisquam nulla ut molestias eveniet fugiat sint, veniam ullam fugit. Voluptatum a possimus nam nobis obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod illum fugit eius unde odit sit eligendi consequuntur consectetur dolor, minima dignissimos sed fugiat, dolore quasi vero laboriosam? Odio, corporis earum. </p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum obcaecati praesentium, doloremque neque quisquam in temporibus, quod quibusdam dolorum sequi voluptatum eos quidem ex deserunt sapiente inventore non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iure, iste aspernatur commodi in, quisquam nulla ut molestias eveniet fugiat sint, veniam ullam fugit. Voluptatum a possimus nam nobis obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod illum fugit eius unde odit sit eligendi consequuntur consectetur dolor, minima dignissimos sed fugiat, dolore quasi vero laboriosam? Odio, corporis earum. </p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum obcaecati praesentium, doloremque neque quisquam in temporibus, quod quibusdam dolorum sequi voluptatum eos quidem ex deserunt sapiente inventore non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iure, iste aspernatur commodi in, quisquam nulla ut molestias eveniet fugiat sint, veniam ullam fugit. Voluptatum a possimus nam nobis obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod illum fugit eius unde odit sit eligendi consequuntur consectetur dolor, minima dignissimos sed fugiat, dolore quasi vero laboriosam? Odio, corporis earum. </p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum obcaecati praesentium, doloremque neque quisquam in temporibus, quod quibusdam dolorum sequi voluptatum eos quidem ex deserunt sapiente inventore non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iure, iste aspernatur commodi in, quisquam nulla ut molestias eveniet fugiat sint, veniam ullam fugit. Voluptatum a possimus nam nobis obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod illum fugit eius unde odit sit eligendi consequuntur consectetur dolor, minima dignissimos sed fugiat, dolore quasi vero laboriosam? Odio, corporis earum. </p>*@
     </main>
+    <hr/>
+    <footer>
+        <div class="container-xxl">
+            <div class="row">
+                <div class="col"></div>
+                <div class="col-11">
+                    <div class="card">
+                        <div class="row g-0">
+                            <div class="col-md-2 ">
+                                <img src="~/istockphoto-1279626331-1024x1024.jpg" class="img-fluid rounded-start" width="150" height="150" alt="imag" style="margin-left: 30px;">
+                            </div>
+                            <div class="col-md-10">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2">INSCREVA-SE PARA RECEBER OFERTAS EXCLUSIVAS</h5>
+                                    <p class="card-text mt-auto">
+                                        <div class="row text-center">
+                                            <div class="col-sm-4">
+                                                <input type="text" class="form-control" placeholder="NOME" aria-label="First name">
+                                            </div>
+                                            <div class="col-sm-4">
+                                                <input type="text" class="form-control" placeholder="E-MAIL" aria-label="Last name">
+                                            </div>
+                                            <div class="col-sm-2">
+                                                <div class="d-grid gap-2 col-12 mx-auto">
+                                                    <button type="submit" class="btn btn-primary ">Eu quero!</button>
+                                                </div>
+                                            </div>
+                                        </div>
 
-    <footer class="border-top footer text-muted">
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col"></div>
+            </div>
+        </div>
+        <hr>
+        <div>
+            <h3 class="text-center">formas de pagamento</h3>
+            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure deleniti eligendi, est maxime, tenetur perspiciatis enim vel suscipit numquam veritatis tempore doloremque, dignissimos ullam eaque veniam dicta accusamus voluptatibus ad.</p>
+
+        </div>
+    </footer>
+
+    @*<footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2022 - prototipoSiteTurismo - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
-    </footer>
+    </footer>*@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
