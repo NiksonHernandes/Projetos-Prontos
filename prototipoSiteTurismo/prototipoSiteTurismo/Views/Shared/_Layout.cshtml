@@ -52,7 +52,7 @@
         .imagem-anuncio {
             min-height: 16vh;
             max-height: 95vh;
-            box-shadow: 2px 2px 5px black;
+            box-shadow: 2px 2px 5px -3px black;
             background-position: center center;
             background-repeat: no-repeat;
             background-size: cover;
@@ -78,6 +78,12 @@
         header nav div div ul li a.nav-link.active.a:hover {
             color: red;
         }
+
+        .boxfooter {
+            background-image: linear-gradient(antiquewhite, white);
+        }
+  
+
     </style>
     @RenderSection("css", false)
 </head>
@@ -193,27 +199,6 @@
                 </div>
             </div>
 
-            @*<div class="row justify-content-around text-center" style="margin-bottom: 30px;">
-                    <div class="col-4">
-                        <div class="card" style="border-radius: 17px; text-shadow: 0 0 3px black;">
-                            <div class="card-body">
-                                <div>
-                                    <p >PACOTES</p> <br />
-                                    <p> 3 dias a partir de</p><br />
-                                    <p>R$</p> <p>337</p>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-4">
-                        my
-                    </div>
-                    <div class="col-4">
-
-                    </div>
-                </div>*@
-
             <div class="row">
                 <div class="col-6">
                     <div class="card mb-3" style="max-width: 540px;">
@@ -275,7 +260,7 @@
                             <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">CAMPOS DO JORDÃO</p>
                             <div>
                                 @*<a href="#" class="btn btn-primary">GO</a>*@
-                                <button type="button" class="btn btn-outline-light btn-lg btn-block"
+                                <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
                                         style="margin-top: 120px;">
                                     Ver mais
                                 </button>
@@ -289,8 +274,12 @@
                         <div class="card-body">
                             <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">COPACABANA</p>
                             <div>
-                                <a href="#" type="button" class="btn btn-outline-light btn-lg btn-block"
-                                   style="margin-top: 120px;">Ver mais</a>
+                                @*<a href="#" type="button" class="btn btn-outline-light btn-lg btn-block"
+                                    style="margin-top: 120px;">Ver mais</a>*@
+                                <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
+                                        style="margin-top: 120px;">
+                                    Ver mais
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -300,8 +289,10 @@
                         <div class="card-body">
                             <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">BOMBINHAS</p>
                             <div>
-                                <a href="#" type="button" class="btn btn-outline-light btn-lg btn-block"
-                                   style="margin-top: 120px;">Ver mais</a>
+                                <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
+                                        style="margin-top: 120px;">
+                                    Ver mais
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -328,8 +319,10 @@
                         <div class="card-body">
                             <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">PARIS</p>
                             <div>
-                                <a href="#" type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                   style="margin-top: 120px;">Ver mais</a>
+                                <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
+                                        style="margin-top: 120px;">
+                                    Ver mais
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -339,8 +332,10 @@
                         <div class="card-body">
                             <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">ARGENTINA</p>
                             <div>
-                                <a href="#" type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                   style="margin-top: 120px;">Ver mais</a>
+                                <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
+                                        style="margin-top: 120px;">
+                                    Ver mais
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -356,44 +351,91 @@
     </main>
 
     <footer>
-
-
-
-        @*<div class="container">
-                <div class="row">
-                    <div class="col"></div>
-                    <div class="col-11">
-                        <div class="card">
-                            <div class="row">
-                                <div class="col-2 ">
-                                    <img src="~/istockphoto-1279626331-1024x1024.jpg" class="img-fluid rounded-start" width="150" height="150" alt="imag" style="margin-left: 30px;">
-                                </div>
-                                <div class="col-10">
-                                    <div class="card-body">
-                                        <h5 class="card-title fs-2">INSCREVA-SE PARA RECEBER OFERTAS EXCLUSIVAS</h5>
-                                        <p class="card-text">
-                                            <div class="row text-center">
-                                                <div class="col-4">
-                                                    <input type="text" class="form-control" placeholder="NOME" aria-label="First name">
-                                                </div>
-                                                <div class="col-4">
-                                                    <input type="text" class="form-control" placeholder="E-MAIL" aria-label="Last name">
-                                                </div>
-                                                <div class="col-2">
-                                                    <div class="d-grid gap-2 col-12 mx-auto">
-                                                        <button type="submit" class="btn btn-primary ">Eu quero!</button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </p>
-                                    </div>
-                                </div>
+        <div class="container-fluid boxfooter" >
+            <div class="row">
+                <div class="col-4 " style="padding-left: 250px;">
+                    <img src="~/imagemPCsemfundo.png" class="img-fluid rounded-right mx-auto d-block" width="170" height="170" alt="imag" style="margin-left: 28px;">
+                </div>
+                <div class="col-8">
+                    <h5 class="card-title font-weight-bold" style="font-size: 25px; margin-top: 28px;">inscreva-se para receber ofertas exclusivas!</h5>
+                    <div class="row text-center">
+                        
+                        <div class="col-3" style="padding-top: 4px;">
+                            <input type="text" class="form-control font-italic" placeholder="Nome" style="border-radius: 14px; width: 206px; height: 40px;" aria-label="First name">
+                        </div>
+                        <div class="col-3" style="padding-top: 4px;">
+                            <input type="text" class="form-control font-italic" placeholder="Escreva seu e-mail" style="border-radius: 14px; width: 206px; height: 40px; " aria-label="Last name">
+                        </div>
+                        <div class="col-2">
+                            <div style="width: 100px; margin-left: 12px; padding-top: 5px;">
+                                <button type="submit" class="btn btn btn-info btn-md btn-block rounded-pill">Eu quero!</button>
                             </div>
                         </div>
                     </div>
-                    <div class="col"></div>
+
+                </div>
+
+            </div>
+
+
+            @*<div>
+                <img src="~/imagemPCsemfundo.png" class="img-fluid rounded-start" width="150" height="150" alt="imag" style="margin-left: 25px;">
+            </div>
+            <div class="col-10">
+                <div class="card-body">
+                    <h5 class="card-title" style="font-size: 20px; margin-top: 9px;">INSCREVA-SE PARA RECEBER OFERTAS EXCLUSIVAS</h5>
+                    <p class="card-text">
+                        <div class="row text-center">
+                            <div class="col-4" style="padding-top: 8px;">
+                                <input type="text" class="form-control" placeholder="NOME" aria-label="First name">
+                            </div>
+                            <div class="col-4" style="padding-top: 8px;">
+                                <input type="text" class="form-control" placeholder="E-MAIL" aria-label="Last name">
+                            </div>
+                            <div class="col-2">
+                                <div style="width: 150px;">
+                                    <button type="submit" class="btn btn btn-info btn-lg btn-block rounded-pill">Eu quero!</button>
+                                </div>
+                            </div>
+                        </div>
+                    </p>
                 </div>
             </div>*@
+
+
+            @*<div class="row">
+            <div class="col-12">
+                <div class="card boxfooter">
+                    <div class="row">
+                        <div class="col-2">
+                            <img src="~/imagemPCsemfundo.png" class="img-fluid rounded-start" width="150" height="150" alt="imag" style="margin-left: 25px;">
+                        </div>
+                        <div class="col-10">
+                            <div class="card-body">
+                                <h5 class="card-title" style="font-size: 20px; margin-top: 9px;">INSCREVA-SE PARA RECEBER OFERTAS EXCLUSIVAS</h5>
+                                <p class="card-text">
+                                    <div class="row text-center">
+                                        <div class="col-4" style="padding-top: 8px;">
+                                            <input type="text" class="form-control" placeholder="NOME" aria-label="First name">
+                                        </div>
+                                        <div class="col-4" style="padding-top: 8px;">
+                                            <input type="text" class="form-control" placeholder="E-MAIL" aria-label="Last name">
+                                        </div>
+                                        <div class="col-2">
+                                            <div style="width: 150px;">
+                                                <button type="submit" class="btn btn btn-info btn-lg btn-block rounded-pill">Eu quero!</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>*@
+        </div>
         <hr>
         <div>
             <h3 class="text-center">formas de pagamento</h3>
@@ -402,11 +444,11 @@
         </div>
     </footer>
 
-    <footer class="border-top footer text-muted">
+    @*<footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2022 - prototipoSiteTurismo - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
-    </footer>
+    </footer>*@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
