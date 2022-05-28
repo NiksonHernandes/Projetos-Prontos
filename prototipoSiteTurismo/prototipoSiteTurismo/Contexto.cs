@@ -8,6 +8,10 @@ namespace prototipoSiteTurismo
     {
         public Contexto(DbContextOptions<Contexto> options) : base(options) { }
         public DbSet<Passagem> PASSAGEM { get; set;  }
+        public DbSet<Hoteis> HOTEIS{ get; set; }
+        public DbSet<Carrinho> CARRINHO { get; set; }
+        public DbSet<Login> LOGIN { get; set; }
        
+
     }
 }

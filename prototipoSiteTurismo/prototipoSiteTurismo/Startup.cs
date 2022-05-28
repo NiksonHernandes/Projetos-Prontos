@@ -27,6 +27,11 @@ namespace prototipoSiteTurismo
             services.AddControllersWithViews();
             //Configuração do banco de dados para todas as controllers
             services.AddDbContext<Contexto>(a => a.UseMySQL("server=localhost;database=prototipoSiteTurismo;user=root;password=;SslMode=none"));
+            services.AddAuthentication("CookieAuthentication").AddCookie("CookieAuthentication", options =>
+            {
+                options.AccessDeniedPath = "/Login/Ops/"; //acesso proibido -> redireciona para a tela escrito que vc n tem permissão para acessar
+                options.LoginPath = "/Login/EntrarLogin";
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,6 +48,8 @@ namespace prototipoSiteTurismo
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

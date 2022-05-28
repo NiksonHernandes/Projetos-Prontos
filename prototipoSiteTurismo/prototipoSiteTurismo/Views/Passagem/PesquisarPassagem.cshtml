@@ -1,73 +1,74 @@
 ﻿@model IEnumerable<prototipoSiteTurismo.Entidades.Passagem>
 
-@{
-    ViewData["Title"] = "PesquisarPassagem";
-}
+<style>
+    body {
+        background-color: powderblue;
 
-<h1>Passagens aéreas disponíveis</h1>
-<p>
-    <a href="/Passagem/Index">Retornar</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.CidadeSaida)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CidadeChegada)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DataSaida)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DataChegada)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Preco)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Detalhes)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
+    }
+
+</style>
+
+<div class="container-fluid" style="padding:0px 80px;">
+    <h1>Passagens aéreas disponíveis</h1>
+    <p>
+        <button class="btn btn-primary">ok </button>
+        <a asp-controller="Passagem" asp-action="Index">Retornar</a>
+        <a asp-action="CriarPassagem">Cadastrar nova passagem</a>
+    </p>
+    <table class="table">
+        <thead>
             <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.CidadeSaida)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.CidadeChegada)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.DataSaida)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.DataChegada)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Preco)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Detalhes)
-                </td>
-                @*<td>
-                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                    </td>*@
+                <th>
+                    @Html.DisplayNameFor(model => model.CidadeSaida)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CidadeChegada)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DataSaida)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DataChegada)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Preco)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Detalhes)
+                </th>
+                <th></th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CidadeSaida)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CidadeChegada)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DataSaida)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DataChegada)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Preco)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Detalhes)
+                    </td>
+                    <td>
+                        <a asp-controller="Carrinho" asp-action="Index" asp-route-id="@item.Id">Adicionar ao carrinho</a> |
+                        @*<a asp-action="Details" asp-route-id="@item.Id">Details</a> |*@
 
-@section css {
-    <style>
-        .card {
-            background-color: burlywood;
-        }
-    </style>
-}
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

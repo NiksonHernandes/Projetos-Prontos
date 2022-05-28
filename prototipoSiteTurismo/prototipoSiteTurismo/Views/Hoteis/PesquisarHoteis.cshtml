@@ -1,0 +1,67 @@
+﻿@model IEnumerable<prototipoSiteTurismo.Entidades.Hoteis>
+
+@{
+    ViewData["Title"] = "PesquisarHoteis";
+}
+
+<h1>PesquisarHoteis</h1>
+
+<p>
+    <a asp-action="CriarHoteis">Cadastrar novo Hotel</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cidade)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.DataSaida)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataChegada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Detalhes)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <th>
+                @Html.DisplayNameFor(model => model.Cidade)
+            </th>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.DataSaida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataChegada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Preco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Detalhes)
+            </td>
+            <td>
+                <a asp-action="EditarHoteis" asp-route-id="@item.Id">Editar</a> |
+                @*<a asp-action="Details" asp-route-id="@item.Id">Details</a> |*@
+                <a asp-action="DeletarHoteis" asp-route-id="@item.Id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

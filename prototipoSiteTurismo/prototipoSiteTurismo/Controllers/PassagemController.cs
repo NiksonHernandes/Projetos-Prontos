@@ -58,18 +58,20 @@ namespace prototipoSiteTurismo.Controllers
         }
 
         // GET: PassagemController/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult EditarPassagem(int id)
         {
-            return View();
+            return View(db.PASSAGEM.Where(a => a.Id == id).FirstOrDefault());
         }
 
         // POST: PassagemController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult EditarPassagem(int id, Passagem collection)
         {
             try
             {
+                db.PASSAGEM.Update(collection);
+                db.SaveChanges();
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -79,15 +81,17 @@ namespace prototipoSiteTurismo.Controllers
         }
 
         // GET: PassagemController/Delete/5
-        public ActionResult Delete(int id)
+        public ActionResult DeletarPassagem(int id)
         {
-            return View();
+            db.PASSAGEM.Remove(db.PASSAGEM.Where(a => a.Id == id).FirstOrDefault());
+            db.SaveChanges();
+            return RedirectToAction("PesquisarPassagem");
         }
 
         // POST: PassagemController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult DeletarPassagem(int id, IFormCollection collection)
         {
             try
             {

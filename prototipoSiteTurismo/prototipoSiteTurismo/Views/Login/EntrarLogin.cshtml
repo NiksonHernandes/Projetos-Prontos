@@ -1,0 +1,38 @@
+﻿<br />
+<div class="container-fluid" style="padding: 0px 195px;">
+    <main>
+        <div class="row">
+            <div class="col-4"></div>
+            <div class="col-4">
+                <div class="card">
+                    <div class="card-header text-center" style="font-size: 22px; font-weight:bold">Faça seu login</div>
+                    <div class="card-body">
+                        <img src="~/login1.jpg" alt="Imagem Login" value="ImagemLogin" class="img-thumbnail mb-3" />
+
+                        <form action="/Login/EntrarLogin" method="POST">
+                            <input type="text" name="Email" placeholder="Coloque o seu e-mail" class="form-control mb-2" />
+                            <input type="password" name="Senha" placeholder="Colque a sua senha" class="form-control mb-2" />
+                            <button type="submit" class="btn btn-primary">Logar</button>
+
+                            @if (TempData["erro"] != null)
+                            {
+                                <hr />
+                                <div class="alert alert-danger" style="margin-bottom: 0px;">
+                                    @TempData["erro"]
+                                </div>
+                            }
+                        </form>
+
+                    </div>
+                    <div class="card-footer"><a href="#">Esqueceu a senha?</a></div>
+                    <div class="card-footer"><a href="/Login/CriarLogin">Criar login</a></div>
+                </div>
+            </div>
+            <div class="col-4"></div>
+        </div>
+        <hr />
+        <button type="button" class="btn btn-outline-secondary btn-sm"><a asp-controller="Passagem" asp-action="Index">Voltar para a Home</a></button>
+        <hr />
+    </main>
+
+</div>
