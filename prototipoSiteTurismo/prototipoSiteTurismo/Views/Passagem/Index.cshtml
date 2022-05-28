@@ -1,21 +1,7 @@
 ﻿<style>
-  /*  #nav1 {
-        background-image: linear-gradient(#e3ffff, aliceblue);
-        box-shadow: 0px 0px 10px black;
-        height: 70px;
-    }
-
-    #img-header {
-        font-size: 30px;
-        margin-left: 18px;
-    }
-
-    header nav div div ul li a.nav-link.active.a:hover {
-        color: red;
-    }*/
-
+  
     body {
-        background-color: aliceblue;
+        background-color: var(--cor2);
     }
 
     .ancora {
@@ -96,7 +82,7 @@
     }
 
     .boxfooter {
-        background-image: linear-gradient(antiquewhite, white);
+        background-image: linear-gradient(var(--cor2), white);
     }
 
     #text-hover-centralajuda a {
@@ -305,7 +291,7 @@
                     <div class="card-body">
                         <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">CAMPOS DO JORDÃO
                         <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
-                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 360</p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 360,00</p>
 
                         <div>
                             @*<a href="#" class="btn btn-primary">GO</a>*@
@@ -321,12 +307,15 @@
             <div class="col-6 col-md-4">
                 <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('PraiaCopacabana.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">COPACABANA</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">COPACABANA</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 450,00</p>
                         <div>
+
                             @*<a href="#" type="button" class="btn btn-outline-light btn-lg btn-block"
-                                style="margin-top: 120px;">Ver mais</a>*@
+            style="margin-top: 120px;">Ver mais</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
@@ -336,12 +325,14 @@
             <div class="col-6 col-md-4">
                 <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('BombinhasSC.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">FLORIANÓPOLIS</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">FLORIANÓPOLIS</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 650,00</p>
                         <div>
-                            <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                            <a type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill" asp-controller="TelasBlocos" asp-action="Florianopolis"
+                                    style="margin-top: 30px;">
                                 Ver mais
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -353,10 +344,12 @@
             <div class="col-6 col-md-4">
                 <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; background-image: url('NovaYork.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; text-shadow: 0 0 3px black;">NOVA YORK</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; text-shadow: 0 0 3px black; margin-bottom: 15px;">NOVA YORK</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 2.350,00</p>
                         <div>
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 10px;">
                                 Ver mais
                             </button>
                         </div>
@@ -366,10 +359,12 @@
             <div class="col-6 col-md-4">
                 <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Paris.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">PARIS</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">PARIS</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 1.750,00</p>
                         <div>
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
@@ -379,10 +374,12 @@
             <div class="col-6 col-md-4">
                 <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Argentina.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">ARGENTINA</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">ARGENTINA</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 1.350,00</p>
                         <div>
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
@@ -403,11 +400,13 @@
             <div class="col-6 col-md-4">
                 <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Hotel1.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">HOTEL 1</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">HOTEL POUSO ALEGRE</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 150,00/diária</p>
                         <div>
                             @*<a href="#" class="btn btn-primary">GO</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
@@ -418,12 +417,14 @@
             <div class="col-6 col-md-4">
                 <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Hotel2.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">HOTEL 2</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">GRAN HOTEL</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 350,00/diária</p>
                         <div>
                             @*<a href="#" type="button" class="btn btn-outline-light btn-lg btn-block"
-                                style="margin-top: 120px;">Ver mais</a>*@
+            style="margin-top: 120px;">Ver mais</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
@@ -433,10 +434,12 @@
             <div class="col-6 col-md-4">
                 <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Hotel3.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">HOTEL 3</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">HOTEL CANTO DAS FLORES</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 250,00/diária</p>
                         <div>
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>

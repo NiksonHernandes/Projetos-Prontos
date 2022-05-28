@@ -1,6 +1,20 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+@import url('https://fonts.googleapis.com/css2?family=B612+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pushster&family=Roboto:wght@100&display=swap');
+
+:root {
+    --cor0: #6196AB;
+    --cor1: #3D5E6B;
+    --cor2: #d2dfe4;
+    --cor3: #b6e5f8;
+    --cor4: #77B8D1;
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-bebas: 'Bebas Neue', cursive;
+    --fonte-mono: 'B612 Mono', monospace;
+}
+
 a.navbar-brand {
   white-space: normal;
   text-align: center;

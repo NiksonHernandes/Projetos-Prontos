@@ -2,12 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\prototipoSiteTurismo",
+    "\\prototipoSiteTurismo\\Controllers",
     "\\prototipoSiteTurismo\\Migrations",
     "\\prototipoSiteTurismo\\Views",
     "\\prototipoSiteTurismo\\Views\\Hoteis",
     "\\prototipoSiteTurismo\\Views\\Passagem",
     "\\prototipoSiteTurismo\\Views\\Shared"
   ],
-  "SelectedNode": "\\prototipoSiteTurismo\\Views\\Passagem\\PesquisarPassagem.cshtml",
+  "SelectedNode": "\\prototipoSiteTurismo\\Controllers\\CarrinhoController.cs",
   "PreviewInSolutionExplorer": false
 }

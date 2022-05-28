@@ -1,0 +1,234 @@
+﻿<style>
+    body {
+        background-color: var(--cor2);
+        font-family: var(--font-mono);
+    }
+
+    nav {
+        background-color: var(--cor0);
+        padding: 10px;
+        box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.356);
+    }
+
+    nav > a {
+        color: white;
+        padding: 10px;
+        text-decoration: none;
+        font-weight: bold;
+        transition-duration: 0.5s; /*qnd colocar o mouse por cima, ele transiciona em 1seg*/
+    }
+
+    nav > a:hover {
+        background-color: var(--cor2);
+        color: #93cfcfe8;
+        border-radius: 3px;
+    }
+
+    main {
+        background-color: white;
+        padding: 20px;
+        min-width: 300px; /*se for menor do que a largura mínima, a largura será aplicada*/
+        max-width: 1000px;
+        margin: auto;
+        margin-bottom: 30px;
+        box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.418);
+        border-bottom-left-radius: 15px; /*só as bordas de baixo e da esquerda*/
+        border-bottom-right-radius: 15px;
+    }
+
+    main h1 {
+        font-family: var(--fonte-android);
+        color: var(--cor4);
+        font-weight: normal;
+        font-size: 1.8em;
+    }
+
+    main h2 {
+        color: black;
+        font-size: 1.4em;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-family: var(--font-mono);
+        background-image: linear-gradient(to right, var(--cor3), transparent);
+        text-indent: 10px;
+    }
+
+    figure {
+        float: right;
+        width: auto;
+        text-align: left;
+        font-style: italic;
+        font-size: smaller;
+        text-indent: 0;
+        border: thin silver solid;
+        margin: 0.5em;
+        padding: 0.5em;
+        margin-top: 20px;
+    }
+
+    main p {
+        margin: 15px 0px 15px 0px;
+        text-align: justify;
+        text-indent: 30px; /*recuo no inicio do texto*/
+        font-size: 1em;
+        line-height: 2em; /*altura da linha, entre uma linha e outra*/
+    }
+
+    main strong {
+        color: var(--cor4);
+        font-weight: bold;
+    }
+
+    main a {
+        text-decoration: none;
+        color: var(--cor4);
+        font-weight: bold;
+        background-color: var(--cor3);
+        padding: 2px 4px;
+    }
+
+    main a::after {
+        content: '\00A0\1F517';
+    }
+
+    main a:hover {
+        text-decoration: underline;
+        color: rgb(31, 58, 57)
+    }
+
+    main img {
+        width: 100%;
+    }
+
+    main img.pequena {
+        max-width: 300px;
+        display: block; /*para transformar ela em um bloco e centralizar com margin auto*/
+        margin: auto;
+    }
+
+    div.video {
+        background-color: var(--cor2);
+        margin: 0px -20px 30px -20px;
+        padding: 20px;
+        /*reposividade em vídeo*/
+        padding-bottom: 58%;
+        position: relative;
+    }
+
+        div.video > iframe {
+            position: absolute;
+            top: 5%;
+            left: 5%;
+            width: 90%;
+            height: 90%;
+        }
+
+    main aside {
+        background-color: var(--cor3);
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.253);
+    }
+
+    main h3 {
+        background-color: var(--cor4);
+        color: white;
+        padding: 10px;
+        margin: -10px -10px 0px -10px; /*-10 para ele ir para fora*/
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    main aside ul {
+        list-style-type: '\1F695\00A0\00A0'; /*trocar a bolinha que fica na frente de cada item - coloca a barra invertida na frente -> \00A0 é um espaço*/
+        list-style-position: inside; /*posção da lista - bolinha pro lado de dentro*/
+        columns: 2; /*dividir em colunas*/
+    }
+
+
+</style>
+
+
+<div class="container-fluid" style="padding:0px 30px;">
+    <article>
+        <h1>Principais pontos turístisco de Florianópolis</h1>
+
+        <p><strong>Florianópolis</strong> é uma das capitais mais bonitas e com melhor qualidade de vida do Brasil. A cidade une uma estrutura moderna e praias incríveis, e quem visita fica até perdido em meio a tantas opções para conhecer. Para te ajudar, preparamos uma lista com os 10 opções de pontos turísticos.</p>
+
+        <p>Se engana quem pensa que o turismo na ilha é baseado somente em suas praias. É verdade que são o principal atrativo, mas existe muito mais espalhado pela área total de Floripa, com 55km de comprimento e 18km de largura. São construções e vilarejos históricos, mangues, lagoas e uma série de lugares turísticos para preencher seus dias de férias na ilha da magia.</p>
+
+        <h2>Ponte Hercílio Luz</h2>
+
+        <figure>
+            <img src="~/imgFlorianopolis/PonteHercilioLuz.png" alt="PonteHercilioLuz" class="scaled" title="Ponte Hercilio Luz">
+            <figcaption>Ponte Hercilio Luz</figcaption>
+        </figure>
+
+        <p>Quando pensamos em Floripa, logo vem em nossa memória a imagem da Ponte Hercílio Luz. Apesar de estar inativa a mais de 20 anos, ela é sem dúvida o mais famoso cartão postal da cidade. Inaugurada em 1926, foi construída com o objetivo de ligar a ilha ao continente, mas foi interditada em 1981, por medida de segurança. Hoje a Hercílio Luz somente enfeita a paisagem e é um dos ícones de Florianópolis.</p>
+
+        <p>Não deixe de visitar o mirante situado no Parque da Luz, proporcionando uma das mais belas vistas panorâmicas do centro da cidade. Planeje-se para chegar no fim da tarde, pois poderá curtir o pôr-do-sol e ainda observar a Hercílio Luz à noite, quando a ponte ganha uma iluminação especial.</p>
+
+        <!-- <picture>
+            <source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">
+            <img src="imagens/dan-droids.png" alt="Primeiro mascote do Android" title="Bonecos Android">
+        </picture> -->
+
+        <h2>Mercado Central</h2>
+
+        <figure>
+            <img src="~/imgFlorianopolis/MercadoFlorianopolis.jpg" alt="MercadoFlorianopolis" class="scaled" title="Mercado Florianópolis">
+            <figcaption>Mercado Central de Florianópolis</figcaption>
+        </figure>
+
+        <p>Praticamente toda cidade tem um “Mercado Central”, e eles são um ótimo espaço para imergir na cultura local. O Mercado Público de Florianópolis não podia ser diferente, pois você encontra de tudo e ainda pode aproveitar os pratos da culinária típica nos restaurantes do local.</p>
+
+        <p>Quem passar por aqui não pode deixar de experimentar o famoso pastel de camarão, um dos principais motivos que fazem do Mercado Central ser um ótimo local para o happy hour.</p>
+
+        <h2>Praia da Joaquina</h2>
+
+        <figure>
+            <img src="~/imgFlorianopolis/PraiaJoaquina.jpg" alt="PraiaJoaquina" class="scaled" title="Praia da Joaquina">
+            <figcaption>Praia da Joaquina</figcaption>
+        </figure>
+
+        <p>A Praia de Joaquina é um dos pontos de parada obrigatórios para quem visita Floripa, e certamente poderia figurar entre as melhores praias do Brasil. Localizada a 15 quilômetros do centro da cidade, ela ficou famosa pela qualidade de suas ondas e já foi palco de campeonatos internacionais de surf.</p>
+
+        <p>Também é na Joaquina, que ficam as famosas dunas da “Joaca”, de onde se tem uma vista incrível! Além disso, as dunas servem de palco para a prática do sandboard, uma espécie de surf na área. A Praia de Joaquina oferece uma ótima estrutura, com muitos bares, restaurantes, lojas e pousadas.</p>
+
+
+        <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/587G9NcgyQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+        <aside>
+            <h3>Quer saber mais?</h3>
+
+            <p>Trata-se de uma das capitais mais bonitas e com melhor qualidade de vida do Brasil. A cidade une uma estrutura moderna e praias incríveis, e quem visita fica até perdido em meio a tantas opções para conhecer. Como por exemplo:</p>
+
+            <ul>
+                <li>1- <abbr title="Praça XV de Novembro">Praça XV de Novembro</abbr></li>
+                <li>2 - <abbr title="Catedral Metropolitana">Catedral Metropolitana</abbr></li>
+
+                <li>3 - <abbr title="Campeche">Campeche</abbr></li>
+                <li>4 - <abbr title="Praia Mole">Praia Mole</abbr></li>
+                <li>5 - <abbr title="Morro da Cruz">Morro da Cruz</abbr></li>
+                <li>6 - <abbr title="Barra da Loagoa">Barra da Lagoa</abbr></li>
+            </ul>
+
+            <p>
+                Para finalizar, é importante que você leia o artigo
+                <a href=" https://www.queroviajarmais.com/quanto-gasto-em-florianopolis/" target="_blank" style="font-style: italic;">quanto gasto em Florianópolis</a>, onde é possível ter uma noção muito boa do custo de uma viagem para a cidade em cada item fundamental, como passagem aérea, hospedagem, alimentação, passeios e transporte.
+            </p>
+            <p>
+                Paneje-se bem, pois aí é só chegar em Floripa e curtir!
+            </p>
+
+        </aside>
+
+        <p>
+            <a href="https://www.queroviajarmais.com/principais-pontos-turisticos-florianopolis/" target="_blank" style="text-align: center;">
+                Fonte: https://www.queroviajarmais.com/principais-pontos-turisticos-florianopolis/
+
+            </a>
+        </p>
+    </article>
+</div>
