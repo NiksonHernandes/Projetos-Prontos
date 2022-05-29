@@ -84,7 +84,7 @@
                                     @Html.DisplayFor(modelItem => item.DataChegada)
                                 </td>
                                 <td>
-                                    @Html.DisplayFor(modelItem => item.Preco)
+                                    <span> R$  @Html.DisplayFor(modelItem => item.Preco)</span>
                                 </td>
                                 <td>
                                     @Html.DisplayFor(modelItem => item.Detalhes)
@@ -94,10 +94,7 @@
                                     <a class="btn btn-primary" asp-controller="Carrinho" asp-action="Index" asp-route-id="@item.Id">
                                         Adicionar ao carrinho
                                     </a>
-
-                                  
-                                    @*<a asp-action="Details" asp-route-id="@item.Id">Details</a> |*@
-
+                                                                      
                                 </td>
                             </tr>
                         }

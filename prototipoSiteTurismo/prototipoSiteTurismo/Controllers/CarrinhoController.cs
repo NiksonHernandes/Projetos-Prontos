@@ -25,7 +25,6 @@ namespace prototipoSiteTurismo.Controllers
         // GET: CarrinhoController
         public ActionResult Index(int id)
         {
-            
             Passagem item = db.PASSAGEM.Find(id);
             if(item == null)
             {
@@ -35,10 +34,8 @@ namespace prototipoSiteTurismo.Controllers
             {
                 lsCarrinho.Add(item);
                 TempData["Carrinho"] = lsCarrinho.Count;
-                TempData["erro"] = "Passagem adicionad com sucesso!";
-            }
-           
-            
+                TempData["erro"] = "Passagem adiciona com sucesso!";
+            }            
             return View(lsCarrinho);
         }
 
@@ -93,7 +90,10 @@ namespace prototipoSiteTurismo.Controllers
         // GET: CarrinhoController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
+            Passagem item = db.PASSAGEM.Find(id);
+
+            return View(item);
+
         }
 
         // POST: CarrinhoController/Delete/5
@@ -101,14 +101,11 @@ namespace prototipoSiteTurismo.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            Passagem item = db.PASSAGEM.Find(id);
+
+            lsCarrinho.Clear();
+            //lsCarrinho.Remove(item);
+            return RedirectToAction("Index");
         }
     }
 }

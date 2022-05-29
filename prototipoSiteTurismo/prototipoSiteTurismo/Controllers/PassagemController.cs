@@ -101,6 +101,22 @@ namespace prototipoSiteTurismo.Controllers
             return View();
         }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult CriarPassagem(Passagem collection)
+        {
+            try
+            {
+                db.PASSAGEM.Add(collection);
+                db.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+            catch
+            {
+                return View();
+            }
+        }
+
         // GET: PassagemController/Edit/5
         public ActionResult EditarPassagem(int id)
         {

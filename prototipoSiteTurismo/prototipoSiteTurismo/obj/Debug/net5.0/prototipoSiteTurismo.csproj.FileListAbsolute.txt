@@ -975,3 +975,4 @@ C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\p
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\EditarPassagem.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\Florianopolis.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\SobreNos.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\Delete.cshtml.g.cs

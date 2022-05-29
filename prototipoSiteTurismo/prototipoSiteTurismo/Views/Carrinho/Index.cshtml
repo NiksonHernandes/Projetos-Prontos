@@ -33,9 +33,7 @@
                    style="color: black; padding-right: 70px;font-size: 25px;">
                     Seu Carrinho | Quantidade de Passagens:  @TempData["Carrinho"]
                 </p>
-                <a type="button" class="btn btn-success text-right" asp-controller="Passagem" asp-action="PesquisarPassagem">Adicionar mais passagem</a>
-
-
+                <a type="button" class="btn btn-success text-right" asp-controller="Passagem" asp-action="PesquisarPassagem" style="padding: 10px 12px; margin-bottom: 20px">Adicionar mais passagem</a>
 
 
                 <table class="table">
@@ -44,24 +42,31 @@
 
                         <tr>
                             <th>
-                                @Html.DisplayNameFor(model => model.CidadeSaida)
+                                <span @Html.DisplayNameFor(model => model.CidadeSaida)> SAÍDA </span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.CidadeChegada)
+                                
+                                <span @Html.DisplayNameFor(model => model.CidadeChegada)> DESTINO</span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.DataSaida)
+                                
+                                <span @Html.DisplayNameFor(model => model.DataSaida)> DATA DE SAÍDA</span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.DataChegada)
+                                
+                                <span @Html.DisplayNameFor(model => model.DataChegada)> DATA DE RETORNO </span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.Preco)
+                                
+                                <span @Html.DisplayNameFor(model => model.Preco)>VALOR DA PASSAGEM/<i>PESSOA</i></span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.Detalhes)
+                                
+                                <span @Html.DisplayNameFor(model => model.Detalhes)> DETALHES</span>
                             </th>
-                            <th></th>
+                            <th>
+                                <span> - </span>
+                            </th>
                         </tr>
                     </thead>
                     <tbody>
@@ -81,15 +86,17 @@
                                     @Html.DisplayFor(modelItem => item.DataChegada)
                                 </td>
                                 <td>
-                                    @Html.DisplayFor(modelItem => item.Preco)
+                                   <span>R$ </span> @Html.DisplayFor(modelItem => item.Preco)
+                                    
                                 </td>
                                 <td>
                                     @Html.DisplayFor(modelItem => item.Detalhes)
                                 </td>
                                 <td>
-                                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                   
+                                    <a class="btn btn-primary" asp-controller="Carrinho" asp-action="Delete" asp-route-id="@item.Id">
+                                        Deletar
+                                    </a>
                                 </td>
                             </tr>
                         }
