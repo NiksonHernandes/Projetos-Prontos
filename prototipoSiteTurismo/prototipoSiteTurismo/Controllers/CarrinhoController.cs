@@ -35,6 +35,7 @@ namespace prototipoSiteTurismo.Controllers
             {
                 lsCarrinho.Add(item);
                 TempData["Carrinho"] = lsCarrinho.Count;
+                TempData["erro"] = "Passagem adicionad com sucesso!";
             }
            
             

@@ -3,9 +3,7 @@
 <style>
     body {
         background-color: var(--cor2);
-
     }
-
 </style>
 
 <div class="container-fluid" style="padding:0px 80px;">
@@ -16,11 +14,40 @@
             <div class="card-body">
                 <p class="card-text text-left font-italic font-weight-bold"
                    style="color: black; padding-right: 70px;font-size: 25px;"> Passagens Aéreas </p>
+
+                <!--BUSCA DE PASSAGENS-->
+                <div class="card">
+                    <div class="card-header">Pesquisar Passagens</div>
+                    <div class="card-body">
+                        <form action="/Passagem/PesquisarPassagem" method="get">
+                            <div class="row row justify-content-md-center">
+                                <div class="col-4 pt-1">
+                                    <select name="itembusca" class="form-control">
+                                        <option value="Todos">Pesquisar por todos</option>
+                                        <option value="Csaida">Cidade Saida</option>
+                                        <option value="Cchegada">Cidade Chegada</option>
+                                        <option value="Dsaida">Data Saida</option>
+                                        <option value="Dchegada">Data Chegada</option>
+                                        <option value="Preco">Preco</option>
+                                    </select>
+
+                                </div>
+                                <div class="col-4 pt-1"><input type="text" name="query" class="form-control" placeholder="Digite sua busca" /></div>
+                                <div class="col-4">
+                                    <button type="submit" class="btn btn-primary btn-lg btn-block">Pesquisar</button>
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+
                 <table class="table">
                     <thead>
                         <tr>
                             <th>
                                 @Html.DisplayNameFor(model => model.CidadeSaida)
+
                             </th>
                             <th>
                                 @Html.DisplayNameFor(model => model.CidadeChegada)
@@ -63,10 +90,12 @@
                                     @Html.DisplayFor(modelItem => item.Detalhes)
                                 </td>
                                 <td>
-                                   
-                                    <a class="btn btn-primary" asp-controller="Carrinho" asp-action="Index" asp-route-id="@item.Id">
-                                             Adicionar ao carrinho</a>
 
+                                    <a class="btn btn-primary" asp-controller="Carrinho" asp-action="Index" asp-route-id="@item.Id">
+                                        Adicionar ao carrinho
+                                    </a>
+
+                                  
                                     @*<a asp-action="Details" asp-route-id="@item.Id">Details</a> |*@
 
                                 </td>
@@ -81,10 +110,14 @@
     </div>
 
     <p>
-        
+
         <a asp-controller="Passagem" asp-action="Index">Retornar</a>
         <a asp-action="CriarPassagem">Cadastrar nova passagem</a>
     </p>
 
 </div>
+<script>
+  
+
+</script>
 
