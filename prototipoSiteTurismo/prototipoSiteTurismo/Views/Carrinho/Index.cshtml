@@ -11,13 +11,7 @@
 
 <div class="container-fluid" style="padding: 0px 80px">
 
-    <p>
-        <a asp-action="Create">Create New</a>
-        <a asp-controller="Login" asp-action="Logoff">Sair do login</a>
-
-
-    </p>
-    <div class="text-center" >
+    <div class="text-center">
         @if (TempData["erro"] != null)
         {
             <hr />
@@ -45,27 +39,27 @@
                                 <span @Html.DisplayNameFor(model => model.CidadeSaida)> SAÍDA </span>
                             </th>
                             <th>
-                                
+
                                 <span @Html.DisplayNameFor(model => model.CidadeChegada)> DESTINO</span>
                             </th>
                             <th>
-                                
+
                                 <span @Html.DisplayNameFor(model => model.DataSaida)> DATA DE SAÍDA</span>
                             </th>
                             <th>
-                                
+
                                 <span @Html.DisplayNameFor(model => model.DataChegada)> DATA DE RETORNO </span>
                             </th>
                             <th>
-                                
+
                                 <span @Html.DisplayNameFor(model => model.Preco)>VALOR DA PASSAGEM/<i>PESSOA</i></span>
                             </th>
                             <th>
-                                
+
                                 <span @Html.DisplayNameFor(model => model.Detalhes)> DETALHES</span>
                             </th>
                             <th>
-                                <span> - </span>
+                                <span> ----- </span>
                             </th>
                         </tr>
                     </thead>
@@ -86,26 +80,37 @@
                                     @Html.DisplayFor(modelItem => item.DataChegada)
                                 </td>
                                 <td>
-                                   <span>R$ </span> @Html.DisplayFor(modelItem => item.Preco)
-                                    
+                                    <span>R$ </span> @Html.DisplayFor(modelItem => item.Preco)
+
                                 </td>
                                 <td>
                                     @Html.DisplayFor(modelItem => item.Detalhes)
                                 </td>
                                 <td>
-                                   
+
                                     <a class="btn btn-primary" asp-controller="Carrinho" asp-action="Delete" asp-route-id="@item.Id">
-                                        Deletar
+                                        Deletar Passagem
                                     </a>
                                 </td>
                             </tr>
                         }
                     </tbody>
                 </table>
+                <a class="btn material-icons" asp-controller="Passagens" asp-action="PesquisarPassagem" title="Retornar para as passagens">
+                    west
+                </a>
+                <a class="btn material-icons" asp-controller="Login" asp-action="Logoff" title="Sair da sua conta">
+                    logout
+                </a>
             </div>
         </div>
     </div>
 
+
+    <p>
+        <a asp-action="Create">Create New</a>
+
+    </p>
 </div>
 
 

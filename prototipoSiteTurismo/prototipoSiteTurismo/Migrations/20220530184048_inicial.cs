@@ -35,7 +35,7 @@ namespace prototipoSiteTurismo.Migrations
                     Cidade = table.Column<string>(type: "text", nullable: true),
                     DataSaida = table.Column<string>(type: "text", nullable: true),
                     DataChegada = table.Column<string>(type: "text", nullable: true),
-                    Preco = table.Column<string>(type: "text", nullable: true),
+                    Preco = table.Column<decimal>(type: "decimal(18, 2)", nullable: false),
                     Detalhes = table.Column<string>(type: "text", nullable: true)
                 },
                 constraints: table =>

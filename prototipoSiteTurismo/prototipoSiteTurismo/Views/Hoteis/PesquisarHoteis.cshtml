@@ -15,8 +15,8 @@
     <div class="col-12" style="margin: 40px 0px">
         <div class="card" style="border-radius: 17px; text-shadow: 0px 0px 3px white; background-color: white">
             <div class="card-body">
-                <p class="card-text text-left font-italic font-weight-bold"
-                   style="color: black; padding-right: 70px;font-size: 25px;"> Passagens Aéreas </p>
+                <p class="card-text text-left font-weight-bold"
+                   style="color: black; padding-right: 70px;font-size: 25px;"> Hoteis </p>
 
                 <!--BUSCA DE HOTEIS-->
                 <div class="card">
@@ -43,18 +43,18 @@
 
                         </form>
                     </div>
+
                 </div>
 
                 <table class="table">
                     <thead>
-                        <tr>
+                        <tr class="text-center">
                             <th>
                                 @Html.DisplayNameFor(model => model.Nome)
                             </th>
                             <th>
                                 @Html.DisplayNameFor(model => model.Cidade)
                             </th>
-
                             <th>
                                 @Html.DisplayNameFor(model => model.DataSaida)
                             </th>
@@ -74,27 +74,26 @@
                         @foreach (var item in Model)
                         {
                             <tr>
-                                <td>
+                                <td class="text-center">
                                     @Html.DisplayFor(modelItem => item.Nome)
                                 </td>
-                                <th>
-                                    @Html.DisplayNameFor(model => model.Cidade)
-                                </th>
-
-                                <td>
+                                <td class="text-center">
+                                    @Html.DisplayFor(modelItem => item.Cidade)
+                                </td>
+                                <td class="text-center">
                                     @Html.DisplayFor(modelItem => item.DataSaida)
                                 </td>
-                                <td>
+                                <td class="text-center">
                                     @Html.DisplayFor(modelItem => item.DataChegada)
                                 </td>
-                                <td>
-                                    @Html.DisplayFor(modelItem => item.Preco)
+                                <td class="text-center">
+                                    <span> R$ @Html.DisplayFor(modelItem => item.Preco)</span>
                                 </td>
                                 <td>
                                     @Html.DisplayFor(modelItem => item.Detalhes)
                                 </td>
                                 <td>
-                                    <a class="btn btn-primary" asp-controller="Carrinho" asp-action="IndexHoteis" asp-route-id="@item.Id">
+                                    <a class="btn btn-success" asp-controller="Carrinho" asp-action="IndexHoteis" asp-route-id="@item.Id">
                                         Adicionar ao carrinho
                                     </a>
                                 </td>
@@ -102,12 +101,16 @@
                         }
                     </tbody>
                 </table>
+              
+                <a class="btn material-icons" asp-controller="Hoteis" asp-action="Index" title="Retornar para a Home">
+                    west
+                </a>
+              
             </div>
         </div>
+        
     </div>
     <p>
-
-        <a asp-controller="Hoteis" asp-action="Index">Retornar</a>
         <a asp-action="CriarHoteis">Cadastrar nova passagem</a>
     </p>
 

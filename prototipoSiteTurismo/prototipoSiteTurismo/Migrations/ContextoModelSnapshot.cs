@@ -66,8 +66,8 @@ namespace prototipoSiteTurismo.Migrations
                     b.Property<string>("Nome")
                         .HasColumnType("text");
 
-                    b.Property<string>("Preco")
-                        .HasColumnType("text");
+                    b.Property<decimal>("Preco")
+                        .HasColumnType("decimal(18, 2)");
 
                     b.HasKey("Id");
 

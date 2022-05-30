@@ -3,63 +3,109 @@
 @{
     ViewData["Title"] = "IndexHoteis";
 }
+<style>
+    body {
+        background-color: var(--cor2);
+    }
+</style>
 
-<h1>IndexHoteis</h1>
+<div class="container-fluid" style="padding: 0px 80px">
+    <div class="text-center">
+        @if (TempData["erro"] != null)
+        {
+            <hr />
+            <div class="alert alert-success" style="margin: auto;">
+                @TempData["erro"]
+            </div>
+        }
+    </div>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Nome)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Cidade)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DataSaida)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DataChegada)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Preco)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Detalhes)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Cidade)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DataSaida)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DataChegada)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Preco)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Detalhes)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <div class="col-12" style="margin: 40px 0px">
+        <div class="card" style="border-radius: 17px; text-shadow: 0px 0px 3px white; background-color: white">
+            <div class="card-body">
+                <p class="card-text text-left font-italic font-weight-bold"
+                   style="color: black; padding-right: 70px;font-size: 25px;">
+                    Seu Carrinho | Quantidade de Hoteis:  @TempData["Carrinho"]
+                </p>
+                <a type="button" class="btn btn-success text-right" asp-controller="Hoteis" asp-action="PesquisarHoteis" style="padding: 10px 12px; margin-bottom: 20px">Adicionar mais hoteis</a>
+                <table class="table">
+
+                    <thead>
+                        <tr>
+                            <th>
+                                <span @Html.DisplayNameFor(model => model.Nome)> NOME </span>
+                            </th>
+                            <th>
+                                <span @Html.DisplayNameFor(model => model.Cidade)> CIDADE / ESTADO</span>
+                            </th>
+                            <th>
+
+                                <span @Html.DisplayNameFor(model => model.DataSaida)>INICIO DA HOSPEDAGEM</span>
+                            </th>
+                            <th>
+                                <span @Html.DisplayNameFor(model => model.DataChegada)> FIM DA HOSPEDAGEM</span>
+
+                            </th>
+                            <th>
+
+                                <span @Html.DisplayNameFor(model => model.Preco)> VALOR DA DIÁRIA/<i>PESSOA</i></span>
+                            </th>
+                            <th>
+
+                                <span @Html.DisplayNameFor(model => model.Detalhes)> DETALHES </span>
+                            </th>
+                            <th>
+                                <span> ----- </span>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Nome)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Cidade)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DataSaida)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DataChegada)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Preco)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Detalhes)
+                                </td>
+                                <td>
+                                    <a class="btn btn-primary" asp-controller="Carrinho" asp-action="DeleteHotel" asp-route-id="@item.Id">
+                                        Deletar Hotel
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <a class="btn material-icons" asp-controller="Hoteis" asp-action="PesquisarHoteis" title="Retornar para os hoteis">
+                    west
+                </a>
+                <a class="btn material-icons" asp-controller="Login" asp-action="Logoff" title="Sair da sua conta">
+                    logout
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+    <p>
+        <a asp-action="Create">Create New</a>
+
+    </p>
+
+</div>
+
+

@@ -968,7 +968,6 @@ C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\p
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\CriarHoteis.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\EditarHoteis.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\Index.cshtml.g.cs
-C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\PesquisarHoteis.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\CriarLogin.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\EntrarLogin.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
@@ -976,3 +975,6 @@ C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\p
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\Florianopolis.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\SobreNos.cshtml.g.cs
 C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\Delete.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\IndexHoteis.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\PesquisarHoteis.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\DeleteHotel.cshtml.g.cs

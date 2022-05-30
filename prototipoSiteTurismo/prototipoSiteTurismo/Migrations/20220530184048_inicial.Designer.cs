@@ -8,7 +8,7 @@ using prototipoSiteTurismo;
 namespace prototipoSiteTurismo.Migrations
 {
     [DbContext(typeof(Contexto))]
-    [Migration("20220527174522_inicial")]
+    [Migration("20220530184048_inicial")]
     partial class inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -68,8 +68,8 @@ namespace prototipoSiteTurismo.Migrations
                     b.Property<string>("Nome")
                         .HasColumnType("text");
 
-                    b.Property<string>("Preco")
-                        .HasColumnType("text");
+                    b.Property<decimal>("Preco")
+                        .HasColumnType("decimal(18, 2)");
 
                     b.HasKey("Id");
 

@@ -6,7 +6,8 @@
     <title>@ViewData["Title"] - POUSAR.COM</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
-  
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
     <style>
 
         #nav1 {
@@ -48,8 +49,10 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                     <ul class="navbar-nav sm-2" style="padding-right: 80px; font-size: 19px">
-                        <li class="nav-item" style="padding:0 15px 0 15px;">
-                            <a class="nav-link active a ancora" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="Index">VOOS</a>
+                        <li class="nav-item" style="padding:0 15px 0 15px;">                       
+                            <a class="nav-link active a ancora" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="Index">
+                                 VOOS
+                            </a>
                         </li>
                         <li class="nav-item" style="padding:0 15px 0 15px;">
                             <a class="nav-link active a ancora" aria-current="page" asp-controller="Hoteis" asp-action="Index" id="link-menu">HOTEIS</a>
@@ -64,7 +67,8 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="height: auto;">
                                 <li><a class="dropdown-item fs-6 font-weight-bold text-wrap" asp-controller="Login" asp-action="EntrarLogin">Login</a></li>
-                                <li><a class="dropdown-item fs-6 text-wrap"  asp-controller="Carrinho" asp-action="Index">Carrinho</a></li>
+                                <li><a class="dropdown-item fs-6 text-wrap" asp-controller="Carrinho" asp-action="Index">Carrinho Passagens</a></li>
+                                <li><a class="dropdown-item fs-6 text-wrap" asp-controller="Carrinho" asp-action="IndexHoteis">Carrinho Hoteis</a></li>
                                 <li><a class="dropdown-item fs-6 text-wrap" href="#">Ajuda</a></li>
                                 <li><hr class="dropdown-divider "></li>
                                 <li><a class="dropdown-item fs-6 text-wrap" asp-controller="TelasBlocos" asp-action="SobreNos">Sobre nós</a></li>

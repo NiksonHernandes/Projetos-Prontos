@@ -57,53 +57,26 @@ namespace prototipoSiteTurismo.Controllers
             return View(lsCarrinhoHoteis);
         }
 
-        // GET: CarrinhoController/Details/5
-        public ActionResult Details(int id)
+        public ActionResult DeleteHotel(int id)
         {
-            return View();
+            Hoteis item = db.HOTEIS.Find(id);
+
+            return View(item);
+
         }
 
-        // GET: CarrinhoController/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: CarrinhoController/Create
+        // POST: CarrinhoController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult DeleteHotel(int id, IFormCollection collection)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            Hoteis item = db.HOTEIS.Find(id);
+
+            lsCarrinhoHoteis.Clear();
+            //lsCarrinho.Remove(item);
+            return RedirectToAction("IndexHoteis");
         }
 
-        // GET: CarrinhoController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: CarrinhoController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
 
         // GET: CarrinhoController/Delete/5
         public ActionResult Delete(int id)

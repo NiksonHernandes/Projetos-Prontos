@@ -12,7 +12,7 @@ namespace prototipoSiteTurismo.Entidades
         public string Cidade { get; set; }
         public string DataSaida { get; set; }
         public string DataChegada { get; set; }
-        public string Preco { get; set; }
+        public decimal Preco { get; set; }
         public string Detalhes { get; set; }
     }
 }
