@@ -21,22 +21,40 @@ namespace prototipoSiteTurismo.Controllers
 
         //criando uma lista estática:
         public static List<Passagem> lsCarrinho = new List<Passagem>();
+        public static List<Hoteis> lsCarrinhoHoteis = new List<Hoteis>();
 
         // GET: CarrinhoController
         public ActionResult Index(int id)
         {
             Passagem item = db.PASSAGEM.Find(id);
-            if(item == null)
-            {
+         
 
-            }
+            if (item == null)
+            {}
             else
             {
                 lsCarrinho.Add(item);
                 TempData["Carrinho"] = lsCarrinho.Count;
                 TempData["erro"] = "Passagem adiciona com sucesso!";
-            }            
+            }
+
             return View(lsCarrinho);
+        }
+
+        public ActionResult IndexHoteis(int id)
+        {
+
+            Hoteis item = db.HOTEIS.Find(id);
+
+            if (item == null)
+            { }
+            else
+            {
+                lsCarrinhoHoteis.Add(item);
+                TempData["Carrinho"] = lsCarrinhoHoteis.Count;
+                TempData["erro"] = "Hotel adicionado com sucesso!";
+            }
+            return View(lsCarrinhoHoteis);
         }
 
         // GET: CarrinhoController/Details/5

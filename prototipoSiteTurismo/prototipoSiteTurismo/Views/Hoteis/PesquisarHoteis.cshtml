@@ -4,64 +4,111 @@
     ViewData["Title"] = "PesquisarHoteis";
 }
 
-<h1>PesquisarHoteis</h1>
+<style>
+    body {
+        background-color: var(--cor2);
+    }
+</style>
 
-<p>
-    <a asp-action="CriarHoteis">Cadastrar novo Hotel</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Nome)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Cidade)
-            </th>
+<div class="container-fluid" style="padding: 0px 80px;">
 
-            <th>
-                @Html.DisplayNameFor(model => model.DataSaida)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DataChegada)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Preco)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Detalhes)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <th>
-                @Html.DisplayNameFor(model => model.Cidade)
-            </th>
+    <div class="col-12" style="margin: 40px 0px">
+        <div class="card" style="border-radius: 17px; text-shadow: 0px 0px 3px white; background-color: white">
+            <div class="card-body">
+                <p class="card-text text-left font-italic font-weight-bold"
+                   style="color: black; padding-right: 70px;font-size: 25px;"> Passagens Aéreas </p>
 
-            <td>
-                @Html.DisplayFor(modelItem => item.DataSaida)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DataChegada)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Preco)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Detalhes)
-            </td>
-            <td>
-                <a asp-action="EditarHoteis" asp-route-id="@item.Id">Editar</a> |
-                @*<a asp-action="Details" asp-route-id="@item.Id">Details</a> |*@
-                <a asp-action="DeletarHoteis" asp-route-id="@item.Id">Deletar</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+                <!--BUSCA DE HOTEIS-->
+                <div class="card">
+                    <div class="card-header">Pesquisar Hoteis</div>
+                    <div class="card-body">
+                        <form action="/Hoteis/PesquisarHoteis" method="get">
+                            <div class="row row justify-content-md-center">
+                                <div class="col-4 pt-1">
+                                    <select name="itembusca" class="form-control">
+                                        <option value="Todos">Pesquisar por todos</option>
+                                        <option value="Nome">Nome do hotel</option>
+                                        <option value="Cidade">Cidade do hotel</option>
+                                        <option value="Dsaida">Datas saida</option>
+                                        <option value="Dchegada">Data chegada</option>
+                                        <option value="Preco">Preço do hotel</option>
+                                    </select>
+
+                                </div>
+                                <div class="col-4 pt-1"><input type="text" name="query" class="form-control" placeholder="Digite sua busca" /></div>
+                                <div class="col-4">
+                                    <button type="submit" class="btn btn-primary btn-lg btn-block">Pesquisar</button>
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Nome)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Cidade)
+                            </th>
+
+                            <th>
+                                @Html.DisplayNameFor(model => model.DataSaida)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.DataChegada)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Preco)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Detalhes)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Nome)
+                                </td>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Cidade)
+                                </th>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DataSaida)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DataChegada)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Preco)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Detalhes)
+                                </td>
+                                <td>
+                                    <a class="btn btn-primary" asp-controller="Carrinho" asp-action="IndexHoteis" asp-route-id="@item.Id">
+                                        Adicionar ao carrinho
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <p>
+
+        <a asp-controller="Hoteis" asp-action="Index">Retornar</a>
+        <a asp-action="CriarHoteis">Cadastrar nova passagem</a>
+    </p>
+
+</div>

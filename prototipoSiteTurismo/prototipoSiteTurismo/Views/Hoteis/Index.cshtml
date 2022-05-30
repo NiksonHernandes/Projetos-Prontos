@@ -1,22 +1,6 @@
 ﻿<style>
-
-   /* #nav1 {
-        background-image: linear-gradient(#e3ffff, aliceblue);
-        box-shadow: 0px 0px 10px black;
-        height: 70px;
-    }
-
-    #img-header {
-        font-size: 30px;
-        margin-left: 18px;
-    }
-
-    header nav div div ul li a.nav-link.active.a:hover {
-        color: red;
-    }
-*/
-    body {
-        background-color: aliceblue;
+ body {
+        background-color: var(--cor2);
     }
 
     .ancora {
@@ -45,8 +29,7 @@
     }
 
     .imagem-card-viagem {
-        min-height: 57vh;
-        max-height: 95vh;
+        
         box-shadow: 2px 1px 5px black;
         border: 1px solid rgb(185, 185, 185);
         background-color: antiquewhite;
@@ -59,8 +42,7 @@
     }
 
     .imagem-anuncio {
-        min-height: 16vh;
-        max-height: 95vh;
+       
         box-shadow: 2px 2px 5px -3px black;
         background-position: center center;
         background-repeat: no-repeat;
@@ -69,8 +51,7 @@
     }
 
     .imagem-anuncio-fim {
-        min-height: 16vh;
-        max-height: 95vh;
+     
         height: 150px;
         box-shadow: 2px 2px 5px -3px black;
         background-position: center center;
@@ -84,8 +65,23 @@
         background-size: cover;
     }
 
+    #nav1 {
+        background-image: linear-gradient(#e3ffff, aliceblue);
+        box-shadow: 0px 0px 10px black;
+        height: 70px;
+    }
+
+    #img-header {
+        font-size: 30px;
+        margin-left: 18px;
+    }
+
+    header nav div div ul li a.nav-link.active.a:hover {
+        color: red;
+    }
+
     .boxfooter {
-        background-image: linear-gradient(antiquewhite, white);
+        background-image: linear-gradient(var(--cor2), white);
     }
 
     #text-hover-centralajuda a {
@@ -105,106 +101,52 @@
     }
 </style>
 <main>
-    <!--<header>
-        
-        <nav class="navbar navbar-expand-lg " id="nav1">-->
-            <!--nav-1-->
-            <!--<div class="container-fluid">
-                <a class="navbar-brand ancora" id="img-header" asp-controller="Passagem" asp-action="Index" style="margin-left: 40px;">-->
-                    <!--imagem-->
-                    <!--<img src="~/favicon-avião.ico" alt="Imagem" width="50" height="38" class="d-inline-block align-text-top">
-                    Pousar.com
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-                    <ul class="navbar-nav sm-2" style="padding-right: 80px; font-size: 19px">
-                        <li class="nav-item" style="padding:0 15px 0 15px;">
-                            <a class="nav-link active a ancora" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="Index">VOOS</a>
-                        </li>
-                        <li class="nav-item" style="padding:0 15px 0 15px;">
-                            <a class="nav-link active a ancora" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="CriarPassagem">Criar</a>
-                        </li>
-                        <li class="nav-item" style="padding:0 15px 0 15px;">
-                            <a class="nav-link active a ancora" aria-current="page" asp-controller="Hoteis" asp-action="Index" id="link-menu"  style="color: orange;">HOTEIS</a>
-                        </li>
-                        <li class="nav-item" style="padding:0 45px 0 15px;">
-                            <a class="nav-link active a ancora" href="#" id="link-menu">PACOTES</a>
-                        </li>
-                        <li class="nav-item dropdown">-->
-                            <!--Dropbox-->
-                            <!--<a class="nav-link active dropdown-toggle ancora" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
-                                MENU
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="height: auto;">
-                                <li><a class="dropdown-item fs-6 font-weight-bold text-wrap" href="#">Login</a></li>
-                                <li><a class="dropdown-item fs-6 text-wrap" href="#">Carrinho</a></li>
-                                <li><a class="dropdown-item fs-6 text-wrap" href="#">Ajuda</a></li>
-                                <li><hr class="dropdown-divider "></li>
-                                <li><a class="dropdown-item fs-6 text-wrap" href="#">Sobre nós</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>-->
 
     <div class="imagem-fundo" style="background-size: cover;">
-        <div class="container">
+        <div class="container-fluid" style="padding: 0px 195px;">
             <div class="row my-5">
                 <div class="col"></div>
                 <div class="col-sm-12">
-                    <div class="card ">
-                        <div class="card-body ">
+                    <div class="card " style="border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
+                        <div class="card-body " style="padding-bottom: 40px;">
                             <form action="/Hoteis/PesquisarHoteis" method="get">
                                 <h5 class="card-title fs-3">PESQUISA DE HOTEIS</h5>
                                 <div class="row">
-                                    <div class="col-md-3">
-                                        <label for="exampleDataList" class="form-label" style="font-size: 13px;">
-                                            Nome do Hotel
+                                    <div class="col-6 col-sm-4">
+                                        <label for="exampleDataList" class="form-label" style="font-size: 15px;">
+                                            Qual o nome do hotel?
                                         </label>
-                                        <input name="." type="text" class="form-control fst-italic" list="datalistOptions" id="exampleDataList"
-                                               placeholder="Busque pelo Nome do hotel">
+                                        <input name="queryNome" type="text" class="form-control fst-italic" list="datalistOptions" id="exampleDataList"
+                                               placeholder="Busque pelo nome">
                                         <datalist id="datalistOptions">
-                                            <option value="Plaza " />
+                                            <option value="São Francisco" />
                                             <option value="New York" />
                                             <option value="Seattle" />
                                             <option value="Los Angeles" />
                                             <option value="Chicago" />
                                         </datalist>
                                     </div>
-
-                                    <div class="col-md-3">
-                                        <label class="form-label" style="font-size: 13px;">QUal a cidade do Hotel?</label>
-                                        <input name="." type="text" class="form-control fst-italic" list="datalistOptions" id="exampleDataList"
+                                    <div class="col-6 col-sm-4">
+                                        <label class="form-label" style="font-size: 15px;">Qual a cidade do hotel?</label>
+                                        <input name="queryCidade" type="text" class="form-control fst-italic" list="datalistOptions" id="exampleDataList"
                                                placeholder="Busque pela cidade do hotel">
                                         <datalist id="datalistOptions">
-                                            <option value="San Francisco " />
+                                            <option value="San Francisco" />
                                             <option value="New York" />
                                             <option value="Seattle" />
                                             <option value="Los Angeles" />
                                             <option value="Chicago" />
                                         </datalist>
                                     </div>
-                                    <div class="col-sm-2">
-                                        <label class="form-label" style="font-size: 13px;">Escolha as datas</label>
+                                    <div class="col-6 col-sm-2">
+                                        <label class="form-label" style="font-size: 15px;">Escolha as datas</label>
                                         <div class="input-group sm-2">
                                             <input name="queryDataSaida" type="text" class="form-control fst-italic" placeholder="Ida">
                                             <span></span>
                                             <input name="queryDataChegada" type="text" class="form-control fst-italic" placeholder="Volta">
                                         </div>
-                                        @if (TempData["erro"] != null)
-                                        {
-                                            <hr />
-                                            <div class="alert alert-danger" style="margin-bottom: 0px;">
-                                                @TempData["erro"]
-                                            </div>
-                                        }
                                     </div>
-
-                                    <div class="col-sm-2">
+                                    <div class="col-6 col-sm-2">
                                         <label class="form-label"></label>
                                         <div>
                                             <button type="submit" class="btn btn-primary btn-lg" style="border-radius: 10px; font-size: 18px;">BUSCAR HOTEIS</button>
@@ -221,11 +163,11 @@
         </div>
     </div>
 
-    <div class="container">
-        <div class="row ">
+    <div class="container-fluid" style="padding: 0px 195px;">
+        <div class="row">
             <!--Anuncie aqui-->
             <div class="col-12 " style="margin:40px 0px 40px 0px;">
-                <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('AviaoRastro1.jpg');">
+                <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('AviaoRastro.jpg');">
                     <div class="card-body">
                         <p class="card-text text-right font-italic font-weight-bold" style="color: black; padding-right: 70px;font-size: 25px; margin-top: 12px;">ANUNCIE AQUI</p>
                     </div>
@@ -233,16 +175,15 @@
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-6">
-                <div class="card mb-3" style="max-width: 540px;">
+        <div class="row justify-content-md-center">
+            <div class="col-6" style="margin:20px 0px 20px 0px;">
+                <div class="card mb-3" style="border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
                     <div class="row no-gutters">
-                        <div class="col-md-5 imagemteste" style="background-image: url('Pacotes1.jpg');">
-                            @*<img src="~/ImagemTeste.jpg" class="card-img imagemteste" alt="imagem teste">*@
+                        <div class="col-5 col-md-4 imagemteste" style="background-image: url('Pacotes1.jpg'); border-radius: 17px 0px 0px 17px;">
+
                         </div>
-                        <div class="col-md-7">
+                        <div class="col-7 col-md-8">
                             <div class="card-body ">
-                                @*<img src="~/passagem-aerea.png" class="card-img rounded" alt="imagem teste" >*@
                                 <h5 class="card-title">PACOTES</h5>
                                 <p class="card-text">3 diárias a partir de</p>
                                 <p class="card-text"><small>R$</small> 337-></p>
@@ -251,15 +192,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6">
-                <div class="card mb-3" style="max-width: 540px;">
+            <div class="col-6" style="margin:20px 0px 20px 0px;">
+                <div class="card mb-3" style=" border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
                     <div class="row no-gutters">
-                        <div class="col-md-5 imagemteste" style="background-image: url('pacotes2.jpg');">
-                            @*<img src="~/ImagemTeste.jpg" class="card-img imagemteste" alt="imagem teste">*@
+                        <div class="col-5 col-md-4 imagemteste" style="background-image: url('pacotes2.jpg'); border-radius: 17px 0px 0px 17px;">
                         </div>
-                        <div class="col-md-7">
+                        <div class="col-7 col-md-8">
                             <div class="card-body ">
-                                @*<img src="~/passagem-aerea.png" class="card-img rounded" alt="imagem teste" >*@
                                 <h5 class="card-title">PACOTES</h5>
                                 <p class="card-text">3 diárias a partir de</p>
                                 <p class="card-text"><small>R$</small> 337-></p>
@@ -273,8 +212,8 @@
 
         <div class="row ">
             <!--Anuncie aqui-->
-            <div class="col-12 " style="margin:40px 0px 40px 0px;">
-                <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('AviaoRastro.jpg');">
+            <div class="col-12" style="margin:40px 0px 40px 0px;">
+                <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('AviaoRastro.jpg'); ">
                     <div class="card-body">
                         <p class="card-text text-right font-italic font-weight-bold" style="color: black; padding-right: 70px; font-size: 25px; margin-top: 12px;">ANUNCIE AQUI</p>
 
@@ -282,22 +221,20 @@
                 </div>
             </div>
         </div>
-
     </div>
-    <div class="container">
+    <div class="container-fluid" style="padding: 0px 195px;">
         <!--LUGARES PARA VIAJAR-->
         <p id="voos50porcento">VOOS COM ATÉ 50% DE DESCONTO</p>
-        <div class="row justify-content-around text-center" style="margin-bottom: 30px;">
+        <div class="row justify-content-md-center text-center" style="margin-bottom: 30px;">
             <!--Card de atrações-->
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('CamposJordao.jpg');">
+            <div class="col-6 col-md-4">
+                <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('CamposJordao.jpg');">
                     <div class="card-body">
                         <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">CAMPOS DO JORDÃO
                         <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
-                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 360</p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 360,00</p>
 
                         <div>
-                            @*<a href="#" class="btn btn-primary">GO</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
                                     style="margin-top: 30px;">
                                 Ver mais
@@ -307,30 +244,32 @@
 
                 </div>
             </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('PraiaCopacabana.jpg');">
+            <div class="col-6 col-md-4">
+                <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('PraiaCopacabana.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">COPACABANA</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">COPACABANA</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 450,00</p>
                         <div>
-                            @*<a href="#" type="button" class="btn btn-outline-light btn-lg btn-block"
-                                style="margin-top: 120px;">Ver mais</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('BombinhasSC.jpg');">
+            <div class="col-6 col-md-4">
+                <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('BombinhasSC.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">FLORIANÓPOLIS</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">FLORIANÓPOLIS</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 650,00</p>
                         <div>
-                            <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                            <a type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill" asp-controller="TelasBlocos" asp-action="Florianopolis" target="_blank"
+                               style="margin-top: 30px;">
                                 Ver mais
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -339,39 +278,45 @@
 
         <div class="row justify-content-around text-center" style="margin-bottom: 30px;">
             <!--Card de atrações-->
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; background-image: url('NovaYork.jpg');">
+            <div class="col-6 col-md-4">
+                <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; background-image: url('NovaYork.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; text-shadow: 0 0 3px black;">NOVA YORK</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; text-shadow: 0 0 3px black; margin-bottom: 15px;">NOVA YORK</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 2.350,00</p>
                         <div>
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 10px;">
                                 Ver mais
                             </button>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Paris.jpg');">
+            <div class="col-6 col-md-4">
+                <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Paris.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">PARIS</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">PARIS</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 1.750,00</p>
                         <div>
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Argentina.jpg');">
+            <div class="col-6 col-md-4">
+                <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Argentina.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">ARGENTINA</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">ARGENTINA</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 1.350,00</p>
                         <div>
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
@@ -384,19 +329,20 @@
         </div>
     </div>
 
-    <div class="container">
+    <div class="container-fluid" style="padding: 0px 195px;">
         <!--HOTEIS-->
         <p id="voos50porcento" style="margin-top: 50px;">HOTEIS DISPONÍVEIS PARA HOSPEDAGEM</p>
-        <div class="row justify-content-around text-center" style="margin-bottom: 30px;">
+        <div class="row justify-content-around text-center " style="margin-bottom: 30px;">
             <!--Card de HOTEIS-->
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Hotel1.jpg');">
+            <div class="col-6 col-md-4">
+                <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Hotel1.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">HOTEL 1</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">HOTEL POUSO ALEGRE</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 150,00/diária</p>
                         <div>
-                            @*<a href="#" class="btn btn-primary">GO</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
@@ -404,28 +350,30 @@
 
                 </div>
             </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Hotel2.jpg');">
+            <div class="col-6 col-md-4">
+                <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Hotel2.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">HOTEL 2</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">GRAN HOTEL</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 350,00/diária</p>
                         <div>
-                            @*<a href="#" type="button" class="btn btn-outline-light btn-lg btn-block"
-                                style="margin-top: 120px;">Ver mais</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Hotel3.jpg');">
+            <div class="col-6 col-md-4">
+                <div class="card imagem-card-viagem w-auto" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Hotel3.jpg');">
                     <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">HOTEL 3</p>
+                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; margin-bottom: 15px;">HOTEL CANTO DAS FLORES</p>
+                        <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
+                        <p style="color: white; font-size: 32px; font-weight: bold;">R$ 250,00/diária</p>
                         <div>
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
+                                    style="margin-top: 30px;">
                                 Ver mais
                             </button>
                         </div>
@@ -436,57 +384,11 @@
                 <button type="button" class="btn btn-outline-info btn-lg btn-block rounded-pill" style="margin-top: 40px;">ver todos os hoteis</button>
             </div>
         </div>
-
-        <!--<div class="row justify-content-around text-center" style="margin-bottom: 30px;">-->
-        <!--Card de atrações-->
-        <!--<div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; background-image: url('NovaYork.jpg');">
-                    <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; text-shadow: 0 0 3px black;">NOVA YORK</p>
-                        <div>
-                            <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
-                                Ver mais
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Paris.jpg');">
-                    <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">PARIS</p>
-                        <div>
-                            <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
-                                Ver mais
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Argentina.jpg');">
-                    <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">ARGENTINA</p>
-                        <div>
-                            <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
-                                Ver mais
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div style="width: 500px;">
-                <button type="button" class="btn btn-outline-info btn-lg btn-block rounded-pill" style="margin-top: 40px;">ver todos os destinos</button>
-            </div>
-        </div>-->
     </div>
 
     <hr />
 
-    <div class="container">
+    <div class="container-fluid" style="padding: 0px 195px;">
         <p id="voos50porcento" style="margin-bottom: 0px;">DÚVIDAS? </p>
         <div class="row ">
             <!--Central de atendimento-->
@@ -505,94 +407,33 @@
     <hr />
 </main>
 <footer>
-    <div class="container-fluid boxfooter">
+    <div class="container-fluid boxfooter" style="padding: 0px 195px;">
         <div class="row">
-            <div class="col-4 " style="padding-left: 250px;">
+            <div class="col-4 col-sm-4 w-auto">
                 <img src="~/imagemPCsemfundo.png" class="img-fluid rounded-right mx-auto d-block" width="170" height="170" alt="imag" style="margin-left: 28px;">
             </div>
-            <div class="col-8">
+            <div class="col-8 col-sm-8">
                 <h5 class="card-title font-weight-bold" style="font-size: 25px; margin-top: 28px;">inscreva-se para receber ofertas exclusivas!</h5>
                 <div class="row text-center">
-
-                    <div class="col-3" style="padding-top: 4px;">
-                        <input type="text" class="form-control font-italic" placeholder="Nome" style="border-radius: 14px; width: 206px; height: 40px;" aria-label="First name">
+                    <div class="col-5 col-sm-4 w-auto" style="padding-top: 4px;">
+                        <input type="text" class="form-control font-italic" placeholder="Nome" style="border-radius: 14px; width: auto; height: 40px;" aria-label="First name">
                     </div>
-                    <div class="col-3" style="padding-top: 4px;">
-                        <input type="text" class="form-control font-italic" placeholder="Escreva seu e-mail" style="border-radius: 14px; width: 206px; height: 40px; " aria-label="Last name">
+                    <div class="col-5 col-sm-4 w-auto" style="padding-top: 4px;">
+                        <input type="text" class="form-control font-italic" placeholder="Escreva seu e-mail" style="border-radius: 14px; width: auto; height: 40px; " aria-label="Last name">
                     </div>
-                    <div class="col-2">
+                    <div class="col-2 col-sm-2 w-auto">
                         <div style="width: 100px; margin-left: 12px; padding-top: 5px;">
                             <button type="submit" class="btn btn btn-info btn-md btn-block rounded-pill">Eu quero!</button>
                         </div>
                     </div>
                 </div>
-
             </div>
-
         </div>
-
-
-        @*<div>
-                <img src="~/imagemPCsemfundo.png" class="img-fluid rounded-start" width="150" height="150" alt="imag" style="margin-left: 25px;">
-            </div>
-            <div class="col-10">
-                <div class="card-body">
-                    <h5 class="card-title" style="font-size: 20px; margin-top: 9px;">INSCREVA-SE PARA RECEBER OFERTAS EXCLUSIVAS</h5>
-                    <p class="card-text">
-                        <div class="row text-center">
-                            <div class="col-4" style="padding-top: 8px;">
-                                <input type="text" class="form-control" placeholder="NOME" aria-label="First name">
-                            </div>
-                            <div class="col-4" style="padding-top: 8px;">
-                                <input type="text" class="form-control" placeholder="E-MAIL" aria-label="Last name">
-                            </div>
-                            <div class="col-2">
-                                <div style="width: 150px;">
-                                    <button type="submit" class="btn btn btn-info btn-lg btn-block rounded-pill">Eu quero!</button>
-                                </div>
-                            </div>
-                        </div>
-                    </p>
-                </div>
-            </div>*@
-
-        @*<div class="row">
-                <div class="col-12">
-                    <div class="card boxfooter">
-                        <div class="row">
-                            <div class="col-2">
-                                <img src="~/imagemPCsemfundo.png" class="img-fluid rounded-start" width="150" height="150" alt="imag" style="margin-left: 25px;">
-                            </div>
-                            <div class="col-10">
-                                <div class="card-body">
-                                    <h5 class="card-title" style="font-size: 20px; margin-top: 9px;">INSCREVA-SE PARA RECEBER OFERTAS EXCLUSIVAS</h5>
-                                    <p class="card-text">
-                                        <div class="row text-center">
-                                            <div class="col-4" style="padding-top: 8px;">
-                                                <input type="text" class="form-control" placeholder="NOME" aria-label="First name">
-                                            </div>
-                                            <div class="col-4" style="padding-top: 8px;">
-                                                <input type="text" class="form-control" placeholder="E-MAIL" aria-label="Last name">
-                                            </div>
-                                            <div class="col-2">
-                                                <div style="width: 150px;">
-                                                    <button type="submit" class="btn btn btn-info btn-lg btn-block rounded-pill">Eu quero!</button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>*@
+        <hr>
     </div>
-    <hr>
+
     <div>
         <h3 class="text-center">formas de pagamento</h3>
         <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure deleniti eligendi, est maxime, tenetur perspiciatis enim vel suscipit numquam veritatis tempore doloremque, dignissimos ullam eaque veniam dicta accusamus voluptatibus ad.</p>
-
     </div>
 </footer>

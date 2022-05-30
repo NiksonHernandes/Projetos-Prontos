@@ -22,9 +22,58 @@ namespace prototipoSiteTurismo.Controllers
         }
 
         // GET: HoteisController
-        public ActionResult PesquisarHoteis()
+        public ActionResult PesquisarHoteis(string queryNome, string queryCidade, string queryDataSaida, string queryDataChegada, string query, string itembusca)
         {
-            return View(db.HOTEIS.ToList());
+            if (!(string.IsNullOrEmpty(queryNome)))//se query for vazia ou nula, retorna lista de passagens
+            {
+                return View(db.HOTEIS.Where(a => a.Nome.Contains(queryNome)));
+            }
+            if (!(string.IsNullOrEmpty(queryCidade)))
+            {
+                return View(db.HOTEIS.Where(a => a.Cidade.Contains(queryCidade)));
+            }
+            if (!(string.IsNullOrEmpty(queryDataSaida)))
+            {
+                return View(db.HOTEIS.Where(a => a.DataSaida.Contains(queryDataSaida)));
+            }
+            if (!(string.IsNullOrEmpty(queryDataChegada)))
+            {
+                return View(db.HOTEIS.Where(a => a.DataChegada.Contains(queryDataChegada)));
+
+            }
+
+            //validação filtro interno
+            if (string.IsNullOrEmpty(query))//se query for vazia ou nula, retorna lista de passagens
+            {
+                return View(db.HOTEIS.ToList());
+
+            }
+            else if (itembusca == "Todos")
+            {
+                return View(db.HOTEIS.ToList());
+            }
+            else if (itembusca == "Nome")
+            {
+                return View(db.HOTEIS.Where(a => a.Nome.Contains(query)));
+            }
+            else if (itembusca == "Cidade")
+            {
+                return View(db.HOTEIS.Where(a => a.Cidade.Contains(query)));
+            }
+            else if (itembusca == "Dchegada")
+            {
+                return View(db.HOTEIS.Where(a => a.DataChegada.Contains(query)));
+            }
+            else if (itembusca == "Dsaida")
+            {
+                return View(db.HOTEIS.Where(a => a.DataSaida.Contains(query)));
+            }
+            else
+            {
+                return View(db.HOTEIS.ToList());
+            }
+
+            
         }
 
         // GET: HoteisController/Details/5

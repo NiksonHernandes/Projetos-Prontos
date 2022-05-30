@@ -103,62 +103,19 @@
 </style>
 
 <main>
-    <!--<header>
-        <nav class="navbar navbar-expand-lg " id="nav1">-->
-            <!--nav-1-->
-            <!--<div class="container-fluid">
-                <a class="navbar-brand ancora" id="img-header" asp-controller="Passagem" asp-action="Index" style="margin-left: 40px;">-->
-                    <!--imagem-->
-                    <!--<img src="~/favicon-avião.ico" alt="Imagem" width="50" height="38" class="d-inline-block align-text-top">
-                    Pousar.com
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-                    <ul class="navbar-nav sm-2" style="padding-right: 80px; font-size: 19px">
-                        <li class="nav-item" style="padding:0 15px 0 15px;">
-                            <a class="nav-link active a ancora" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="Index" style="color: orange;">VOOS</a>
-                        </li>
-                        <li class="nav-item" style="padding:0 15px 0 15px;">
-                            <a class="nav-link active a ancora" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="CriarPassagem">Criar</a>
-                        </li>
-                        <li class="nav-item" style="padding:0 15px 0 15px;">
-                            <a class="nav-link active a ancora" aria-current="page" asp-controller="Hoteis" asp-action="Index" id="link-menu">HOTEIS</a>
-                        </li>
-                        <li class="nav-item" style="padding:0 45px 0 15px;">
-                            <a class="nav-link active a ancora" href="#" id="link-menu">PACOTES</a>
-                        </li>
-                        <li class="nav-item dropdown">-->
-                            <!--Dropbox-->
-                            <!--<a class="nav-link active dropdown-toggle ancora" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
-                                MENU
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="height: auto;">
-                                <li><a class="dropdown-item fs-6 font-weight-bold text-wrap" href="#">Login</a></li>
-                                <li><a class="dropdown-item fs-6 text-wrap" href="#">Carrinho</a></li>
-                                <li><a class="dropdown-item fs-6 text-wrap" href="#">Ajuda</a></li>
-                                <li><hr class="dropdown-divider "></li>
-                                <li><a class="dropdown-item fs-6 text-wrap" href="#">Sobre nós</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>-->
+  
     <div class="imagem-fundo" style="background-size: cover;">
         <div class="container-fluid" style="padding: 0px 195px;">
             <div class="row my-5">
                 <div class="col"></div>
                 <div class="col-sm-12">
-                    <div class="card ">
-                        <div class="card-body ">
+                    <div class="card " style="border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
+                        <div class="card-body " style="padding-bottom: 40px;">
                             <form action="/Passagem/PesquisarPassagem" method="get">
                                 <h5 class="card-title fs-3">PASSAGENS AÉREAS</h5>
                                 <div class="row">
-                                    <div class="col-md-3">
-                                        <label for="exampleDataList" class="form-label" style="font-size: 13px;">
+                                    <div class="col-6 col-sm-4">
+                                        <label for="exampleDataList" class="form-label" style="font-size: 15px;">
                                             De onde você está
                                             saindo?
                                         </label>
@@ -172,9 +129,8 @@
                                             <option value="Chicago" />
                                         </datalist>
                                     </div>
-
-                                    <div class="col-md-3">
-                                        <label class="form-label" style="font-size: 13px;">Para onde você vai?</label>
+                                    <div class="col-6 col-sm-4">
+                                        <label class="form-label" style="font-size: 15px;">Para onde você vai?</label>
                                         <input name="queryCidadeChegada" type="text" class="form-control fst-italic" list="datalistOptions" id="exampleDataList"
                                                placeholder="Busque por aeroporto">
                                         <datalist id="datalistOptions">
@@ -185,16 +141,15 @@
                                             <option value="Chicago" />
                                         </datalist>
                                     </div>
-                                    <div class="col-sm-2">
-                                        <label class="form-label" style="font-size: 13px;">Escolha as datas</label>
+                                    <div class="col-6 col-sm-2">
+                                        <label class="form-label" style="font-size: 15px;">Escolha as datas</label>
                                         <div class="input-group sm-2">
                                             <input name="queryDataSaida" type="text" class="form-control fst-italic" placeholder="Ida">
                                             <span></span>
                                             <input name="queryDataChegada" type="text" class="form-control fst-italic" placeholder="Volta">
                                         </div>
                                     </div>
-
-                                    <div class="col-sm-2">
+                                    <div class="col-6 col-sm-2">
                                         <label class="form-label"></label>
                                         <div>
                                             <button type="submit" class="btn btn-primary btn-lg" style="border-radius: 10px; font-size: 18px;">BUSCAR VOOS</button>
@@ -212,10 +167,10 @@
     </div>
 
     <div class="container-fluid" style="padding: 0px 195px;">
-        <div class="row ">
+        <div class="row">
             <!--Anuncie aqui-->
             <div class="col-12 " style="margin:40px 0px 40px 0px;">
-                <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('AviaoRastro1.jpg');">
+                <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('AviaoRastro.jpg');">
                     <div class="card-body">
                         <p class="card-text text-right font-italic font-weight-bold" style="color: black; padding-right: 70px;font-size: 25px; margin-top: 12px;">ANUNCIE AQUI</p>
                     </div>
@@ -223,16 +178,15 @@
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-6">
-                <div class="card mb-3" style="max-width: 540px;">
+        <div class="row justify-content-md-center" >
+            <div class="col-6" style="margin:20px 0px 20px 0px;">
+                <div class="card mb-3" style="border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
                     <div class="row no-gutters">
-                        <div class="col-md-5 imagemteste" style="background-image: url('Pacotes1.jpg');">
-                            @*<img src="~/ImagemTeste.jpg" class="card-img imagemteste" alt="imagem teste">*@
+                        <div class="col-5 col-md-4 imagemteste" style="background-image: url('Pacotes1.jpg'); border-radius: 17px 0px 0px 17px;">
+                           
                         </div>
-                        <div class="col-md-7">
+                        <div class="col-7 col-md-8">
                             <div class="card-body ">
-                                @*<img src="~/passagem-aerea.png" class="card-img rounded" alt="imagem teste" >*@
                                 <h5 class="card-title">PACOTES</h5>
                                 <p class="card-text">3 diárias a partir de</p>
                                 <p class="card-text"><small>R$</small> 337-></p>
@@ -241,15 +195,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6">
-                <div class="card mb-3" style="max-width: 540px;">
+            <div class="col-6" style="margin:20px 0px 20px 0px;">
+                <div class="card mb-3" style=" border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
                     <div class="row no-gutters">
-                        <div class="col-md-5 imagemteste" style="background-image: url('pacotes2.jpg');">
-                            @*<img src="~/ImagemTeste.jpg" class="card-img imagemteste" alt="imagem teste">*@
+                        <div class="col-5 col-md-4 imagemteste" style="background-image: url('pacotes2.jpg'); border-radius: 17px 0px 0px 17px;">
                         </div>
-                        <div class="col-md-7">
+                        <div class="col-7 col-md-8">
                             <div class="card-body ">
-                                @*<img src="~/passagem-aerea.png" class="card-img rounded" alt="imagem teste" >*@
                                 <h5 class="card-title">PACOTES</h5>
                                 <p class="card-text">3 diárias a partir de</p>
                                 <p class="card-text"><small>R$</small> 337-></p>
@@ -263,8 +215,8 @@
 
         <div class="row ">
             <!--Anuncie aqui-->
-            <div class="col-12 " style="margin:40px 0px 40px 0px;">
-                <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('AviaoRastro.jpg');">
+            <div class="col-12" style="margin:40px 0px 40px 0px;">
+                <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('AviaoRastro.jpg'); ">
                     <div class="card-body">
                         <p class="card-text text-right font-italic font-weight-bold" style="color: black; padding-right: 70px; font-size: 25px; margin-top: 12px;">ANUNCIE AQUI</p>
 
@@ -272,7 +224,6 @@
                 </div>
             </div>
         </div>
-
     </div>
     <div class="container-fluid" style="padding: 0px 195px;">
         <!--LUGARES PARA VIAJAR-->
@@ -287,7 +238,6 @@
                         <p style="color: white; font-size: 32px; font-weight: bold;">R$ 360,00</p>
 
                         <div>
-                            @*<a href="#" class="btn btn-primary">GO</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
                                     style="margin-top: 30px;">
                                 Ver mais
@@ -304,9 +254,6 @@
                         <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
                         <p style="color: white; font-size: 32px; font-weight: bold;">R$ 450,00</p>
                         <div>
-
-                            @*<a href="#" type="button" class="btn btn-outline-light btn-lg btn-block"
-            style="margin-top: 120px;">Ver mais</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
                                     style="margin-top: 30px;">
                                 Ver mais
@@ -322,7 +269,7 @@
                         <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
                         <p style="color: white; font-size: 32px; font-weight: bold;">R$ 650,00</p>
                         <div>
-                            <a type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill" asp-controller="TelasBlocos" asp-action="Florianopolis"
+                            <a type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill" asp-controller="TelasBlocos" asp-action="Florianopolis" target="_blank"
                                     style="margin-top: 30px;">
                                 Ver mais
                             </a>
@@ -397,7 +344,6 @@
                         <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
                         <p style="color: white; font-size: 32px; font-weight: bold;">R$ 150,00/diária</p>
                         <div>
-                            @*<a href="#" class="btn btn-primary">GO</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
                                     style="margin-top: 30px;">
                                 Ver mais
@@ -414,8 +360,6 @@
                         <p style="color: white; font-size: 20px; margin-bottom: 1px;">a partir de </p>
                         <p style="color: white; font-size: 32px; font-weight: bold;">R$ 350,00/diária</p>
                         <div>
-                            @*<a href="#" type="button" class="btn btn-outline-light btn-lg btn-block"
-            style="margin-top: 120px;">Ver mais</a>*@
                             <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
                                     style="margin-top: 30px;">
                                 Ver mais
@@ -443,52 +387,6 @@
                 <button type="button" class="btn btn-outline-info btn-lg btn-block rounded-pill" style="margin-top: 40px;">ver todos os hoteis</button>
             </div>
         </div>
-
-        <!--<div class="row justify-content-around text-center" style="margin-bottom: 30px;">-->
-        <!--Card de atrações-->
-        <!--<div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; background-image: url('NovaYork.jpg');">
-                    <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px; text-shadow: 0 0 3px black;">NOVA YORK</p>
-                        <div>
-                            <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
-                                Ver mais
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Paris.jpg');">
-                    <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">PARIS</p>
-                        <div>
-                            <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
-                                Ver mais
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-4">
-                <div class="card imagem-card-viagem" style="padding: 80px 0px 80px 0px; border-radius: 17px; text-shadow: 0 0 3px black; background-image: url('Argentina.jpg');">
-                    <div class="card-body">
-                        <p class="card-text" style="color: white; font-weight: bold; font-size: 25px;">ARGENTINA</p>
-                        <div>
-                            <button type="button" class="btn btn-outline-light btn-lg btn-block rounded-pill"
-                                    style="margin-top: 120px;">
-                                Ver mais
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div style="width: 500px;">
-                <button type="button" class="btn btn-outline-info btn-lg btn-block rounded-pill" style="margin-top: 40px;">ver todos os destinos</button>
-            </div>
-        </div>-->
     </div>
 
     <hr />
@@ -514,92 +412,31 @@
 <footer>
     <div class="container-fluid boxfooter" style="padding: 0px 195px;">
         <div class="row">
-            <div class="col-4 " style="padding-left: 250px;">
+            <div class="col-4 col-sm-4 w-auto">
                 <img src="~/imagemPCsemfundo.png" class="img-fluid rounded-right mx-auto d-block" width="170" height="170" alt="imag" style="margin-left: 28px;">
             </div>
-            <div class="col-8">
+            <div class="col-8 col-sm-8">
                 <h5 class="card-title font-weight-bold" style="font-size: 25px; margin-top: 28px;">inscreva-se para receber ofertas exclusivas!</h5>
                 <div class="row text-center">
-
-                    <div class="col-3" style="padding-top: 4px;">
-                        <input type="text" class="form-control font-italic" placeholder="Nome" style="border-radius: 14px; width: 206px; height: 40px;" aria-label="First name">
+                    <div class="col-5 col-sm-4 w-auto" style="padding-top: 4px;">
+                        <input type="text" class="form-control font-italic" placeholder="Nome" style="border-radius: 14px; width: auto; height: 40px;" aria-label="First name">
                     </div>
-                    <div class="col-3" style="padding-top: 4px;">
-                        <input type="text" class="form-control font-italic" placeholder="Escreva seu e-mail" style="border-radius: 14px; width: 206px; height: 40px; " aria-label="Last name">
+                    <div class="col-5 col-sm-4 w-auto" style="padding-top: 4px;">
+                        <input type="text" class="form-control font-italic" placeholder="Escreva seu e-mail" style="border-radius: 14px; width: auto; height: 40px; " aria-label="Last name">
                     </div>
-                    <div class="col-2">
+                    <div class="col-2 col-sm-2 w-auto">
                         <div style="width: 100px; margin-left: 12px; padding-top: 5px;">
                             <button type="submit" class="btn btn btn-info btn-md btn-block rounded-pill">Eu quero!</button>
                         </div>
                     </div>
                 </div>
-
             </div>
-
         </div>
-
-
-        @*<div>
-                <img src="~/imagemPCsemfundo.png" class="img-fluid rounded-start" width="150" height="150" alt="imag" style="margin-left: 25px;">
-            </div>
-            <div class="col-10">
-                <div class="card-body">
-                    <h5 class="card-title" style="font-size: 20px; margin-top: 9px;">INSCREVA-SE PARA RECEBER OFERTAS EXCLUSIVAS</h5>
-                    <p class="card-text">
-                        <div class="row text-center">
-                            <div class="col-4" style="padding-top: 8px;">
-                                <input type="text" class="form-control" placeholder="NOME" aria-label="First name">
-                            </div>
-                            <div class="col-4" style="padding-top: 8px;">
-                                <input type="text" class="form-control" placeholder="E-MAIL" aria-label="Last name">
-                            </div>
-                            <div class="col-2">
-                                <div style="width: 150px;">
-                                    <button type="submit" class="btn btn btn-info btn-lg btn-block rounded-pill">Eu quero!</button>
-                                </div>
-                            </div>
-                        </div>
-                    </p>
-                </div>
-            </div>*@
-
-        @*<div class="row">
-                <div class="col-12">
-                    <div class="card boxfooter">
-                        <div class="row">
-                            <div class="col-2">
-                                <img src="~/imagemPCsemfundo.png" class="img-fluid rounded-start" width="150" height="150" alt="imag" style="margin-left: 25px;">
-                            </div>
-                            <div class="col-10">
-                                <div class="card-body">
-                                    <h5 class="card-title" style="font-size: 20px; margin-top: 9px;">INSCREVA-SE PARA RECEBER OFERTAS EXCLUSIVAS</h5>
-                                    <p class="card-text">
-                                        <div class="row text-center">
-                                            <div class="col-4" style="padding-top: 8px;">
-                                                <input type="text" class="form-control" placeholder="NOME" aria-label="First name">
-                                            </div>
-                                            <div class="col-4" style="padding-top: 8px;">
-                                                <input type="text" class="form-control" placeholder="E-MAIL" aria-label="Last name">
-                                            </div>
-                                            <div class="col-2">
-                                                <div style="width: 150px;">
-                                                    <button type="submit" class="btn btn btn-info btn-lg btn-block rounded-pill">Eu quero!</button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>*@
+        <hr>
     </div>
-    <hr>
+    
     <div>
         <h3 class="text-center">formas de pagamento</h3>
         <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure deleniti eligendi, est maxime, tenetur perspiciatis enim vel suscipit numquam veritatis tempore doloremque, dignissimos ullam eaque veniam dicta accusamus voluptatibus ad.</p>
-
     </div>
 </footer>
