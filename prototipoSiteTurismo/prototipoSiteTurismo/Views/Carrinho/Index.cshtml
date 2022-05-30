@@ -1,5 +1,6 @@
 ﻿@model IEnumerable<prototipoSiteTurismo.Entidades.Passagem>
 
+
 @{
     ViewData["Title"] = "Index";
 }
@@ -25,7 +26,8 @@
             <div class="card-body">
                 <p class="card-text text-left font-italic font-weight-bold"
                    style="color: black; padding-right: 70px;font-size: 25px;">
-                    Seu Carrinho | Quantidade de Passagens:  @TempData["Carrinho"]
+                    Seu Carrinho | Quantidade de Passagens:  @TempData["Carrinho"] 
+                    @TempData["logado"]
                 </p>
                 <a type="button" class="btn btn-success text-right" asp-controller="Passagem" asp-action="PesquisarPassagem" style="padding: 10px 12px; margin-bottom: 20px">Adicionar mais passagem</a>
 
@@ -96,7 +98,7 @@
                         }
                     </tbody>
                 </table>
-                <a class="btn material-icons" asp-controller="Passagens" asp-action="PesquisarPassagem" title="Retornar para as passagens">
+                <a class="btn material-icons" asp-controller="Passagem" asp-action="PesquisarPassagem" title="Retornar para as passagens">
                     west
                 </a>
                 <a class="btn material-icons" asp-controller="Login" asp-action="Logoff" title="Sair da sua conta">

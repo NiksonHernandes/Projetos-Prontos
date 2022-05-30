@@ -20,6 +20,7 @@ namespace prototipoSiteTurismo.Controllers
         // GET: LoginController
         public ActionResult Index()
         {
+            
             return View(db.LOGIN.ToList());
         }
 
@@ -40,6 +41,9 @@ namespace prototipoSiteTurismo.Controllers
                 TempData["erro"] = "Usuário ou senha inválido";
                 return View();
             }
+            
+            TempData["logado"] = "usuario.Nome";
+            
 
             var claims = new List<Claim>();
             claims.Add(new Claim(ClaimTypes.Name, usuarioLogado.Nome));
@@ -48,6 +52,8 @@ namespace prototipoSiteTurismo.Controllers
             var userIdentity = new ClaimsIdentity(claims, "Acesso");
             ClaimsPrincipal principal = new ClaimsPrincipal(userIdentity);
             await HttpContext.SignInAsync("CookieAuthentication", principal, new AuthenticationProperties());
+
+            
 
 
             return Redirect("/Carrinho/Index");
