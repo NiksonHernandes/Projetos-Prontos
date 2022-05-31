@@ -17,5 +17,9 @@ namespace prototipoSiteTurismo.Controllers
         {
             return View();
         }
+        public IActionResult Hotel()
+        {
+            return View();
+        }
     }
 }

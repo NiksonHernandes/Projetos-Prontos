@@ -12,12 +12,19 @@
     <div class="col-12" style="margin: 40px 0px">
         <div class="card" style="border-radius: 17px; text-shadow: 0px 0px 3px white; background-color: white">
             <div class="card-body">
+                <!--Migralha de pão-->
+                <ol class="breadcrumb " style="background-color: white; padding: 0px; margin: 0px; font-size: 19px;">
+                    <li class="breadcrumb-item"><a asp-controller="Passagem" asp-action="Index">Voos</a></li>
+                    <li class="breadcrumb-item">Passagens</li>
+                    @*<li class="breadcrumb-item active" aria-current="page">Data</li>*@
+                </ol>
+                <hr />
                 <p class="card-text text-left font-weight-bold"
-                   style="color: black; padding-right: 70px;font-size: 25px;"> Passagens Aéreas </p>
-
-                <!--BUSCA DE PASSAGENS-->
+                   style="color: black; padding-right: 70px;font-size: 30px;"> Passagens Aéreas </p>
                 <div class="card">
-                    <div class="card-header">Pesquisar Passagens</div>
+
+                    <!--BUSCA DE PASSAGENS-->
+                    <div class="card-header">Filtro de Passagens</div>
                     <div class="card-body">
                         <form action="/Passagem/PesquisarPassagem" method="get">
                             <div class="row row justify-content-md-center">
@@ -44,27 +51,34 @@
 
                 <table class="table">
                     <thead>
+                        <tr
                         <tr>
                             <th>
-                                @Html.DisplayNameFor(model => model.CidadeSaida)
+                                <span @Html.DisplayNameFor(model => model.CidadeSaida)> SAÍDA </span>
+                            </th>
+                            <th>
 
+                                <span @Html.DisplayNameFor(model => model.CidadeChegada)> DESTINO</span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.CidadeChegada)
+
+                                <span @Html.DisplayNameFor(model => model.DataSaida)> SAÍDA</span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.DataSaida)
+
+                                <span @Html.DisplayNameFor(model => model.DataChegada)> RETORNO </span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.DataChegada)
+
+                                <span @Html.DisplayNameFor(model => model.Preco)>PASSAGEM/<i>PESSOA</i></span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.Preco)
+
+                                <span @Html.DisplayNameFor(model => model.Detalhes)> DETALHES</span>
                             </th>
                             <th>
-                                @Html.DisplayNameFor(model => model.Detalhes)
+                                <span> ----- </span>
                             </th>
-                            <th></th>
                         </tr>
                     </thead>
                     <tbody>

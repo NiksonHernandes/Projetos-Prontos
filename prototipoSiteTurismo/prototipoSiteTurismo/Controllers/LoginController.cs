@@ -41,9 +41,7 @@ namespace prototipoSiteTurismo.Controllers
                 TempData["erro"] = "Usuário ou senha inválido";
                 return View();
             }
-            
-            TempData["logado"] = "usuario.Nome";
-            
+                      
 
             var claims = new List<Claim>();
             claims.Add(new Claim(ClaimTypes.Name, usuarioLogado.Nome));

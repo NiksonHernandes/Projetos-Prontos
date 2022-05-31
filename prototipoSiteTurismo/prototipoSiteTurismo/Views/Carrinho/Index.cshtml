@@ -24,10 +24,17 @@
     <div class="col-12" style="margin: 40px 0px">
         <div class="card" style="border-radius: 17px; text-shadow: 0px 0px 3px white; background-color: white">
             <div class="card-body">
+                <!--Migralha de pão-->
+                <ol class="breadcrumb " style="background-color: white; padding: 0px; margin: 0px; font-size: 19px;">
+                    <li class="breadcrumb-item"><a asp-controller="Passagem" asp-action="Index">Voos</a></li>
+                    <li class="breadcrumb-item"><a asp-controller="Passagem" asp-action="PesquisarPassagem">Passagens</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Carrinho Passagens</li>
+                </ol>
+                <hr />
                 <p class="card-text text-left font-italic font-weight-bold"
                    style="color: black; padding-right: 70px;font-size: 25px;">
-                    Seu Carrinho | Quantidade de Passagens:  @TempData["Carrinho"] 
-                    @TempData["logado"]
+                    Carrinho de Passagens | Quantidade de Passagens:  @TempData["Carrinho"]
+
                 </p>
                 <a type="button" class="btn btn-success text-right" asp-controller="Passagem" asp-action="PesquisarPassagem" style="padding: 10px 12px; margin-bottom: 20px">Adicionar mais passagem</a>
 
@@ -46,15 +53,15 @@
                             </th>
                             <th>
 
-                                <span @Html.DisplayNameFor(model => model.DataSaida)> DATA DE SAÍDA</span>
+                                <span @Html.DisplayNameFor(model => model.DataSaida)> SAÍDA</span>
                             </th>
                             <th>
 
-                                <span @Html.DisplayNameFor(model => model.DataChegada)> DATA DE RETORNO </span>
+                                <span @Html.DisplayNameFor(model => model.DataChegada)> RETORNO </span>
                             </th>
                             <th>
 
-                                <span @Html.DisplayNameFor(model => model.Preco)>VALOR DA PASSAGEM/<i>PESSOA</i></span>
+                                <span @Html.DisplayNameFor(model => model.Preco)>PASSAGEM/<i>PESSOA</i></span>
                             </th>
                             <th>
 
