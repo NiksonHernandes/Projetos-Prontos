@@ -8,8 +8,82 @@
     body {
         background-color: var(--cor2);
     }
+
+    #nav1 {
+        background-image: linear-gradient(to bottom, var(--cor3), var(--cor2));
+        box-shadow: 0px 0px 10px black;
+        height: 70px;
+        font-family: var(--fonte-mono);
+        font-weight: bold;
+    }
+
+    #img-header {
+        font-size: 30px;
+        margin-left: 18px;
+    }
+
+    header nav div div ul li a.nav-link.active.a:hover {
+        font-size: 22px;
+        color: #2638AD;
+    }
+
+    .dropdown-item {
+        padding: 4px 10px 4px 10px;
+        font-weight: bold;
+    }
 </style>
 
+<header>
+    <nav class="navbar navbar-expand-lg " id="nav1" style=" background-image: linear-gradient(to bottom, var(--cor3), var(--cor2));">
+        <!--nav-1-->
+        <div class="container-fluid">
+            <a class="navbar-brand ancora" id="img-header" asp-controller="Passagem" asp-action="Index" style="margin-left: 40px;">
+                <!--imagem-->
+                <img src="~/LogoIHC-removebg-preview-removebg-preview.png" alt="Imagem" class="d-inline-block align-text-top" style=" width: 501px; height: 218px; margin-top: 10px; ">
+
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                <ul class="navbar-nav sm-2" style="padding-right: 80px; font-size: 21px">
+                    <li class="nav-item" style="padding:0 15px 0 15px;">
+                        <a class="nav-link active a ancora ancoravoo" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="Index">
+                            <i class="fa-solid fa-plane"></i> VOOS
+                        </a>
+                    </li>
+                    <li class="nav-item" style="padding:0 15px 0 15px;">
+                        <a class="nav-link active a ancora ancorahotel" aria-current="page" asp-controller="Hoteis" asp-action="Index" id="link-menu">
+                            <i class="fa-solid fa-hotel"></i> HOTEIS
+                        </a>
+                    </li>
+                    <li class="nav-item" style="padding:0 45px 0 15px;">
+                        <a class="nav-link active a ancora " href="#" id="link-menu">
+                            <i class="fa-solid fa-map-location"></i> PACOTES
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <!--Dropbox-->
+                        <a class="nav-link active dropdown-toggle ancora" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
+                            MENU
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink" style="height: auto; height: auto; width: 252px;">
+                            <li><a class="dropdown-item fs-6 text-wrap user" asp-controller="Login" asp-action="EntrarLogin"><i class="fa-solid fa-arrow-right-to-bracket"></i> LOGIN</a></li>
+                            <li><hr class="dropdown-divider "></li>
+                            <li> <a class="dropdown-item fs-6 text-wrap" asp-controller="Carrinho" asp-action="Index"><i class="fa-solid fa-cart-shopping"></i> CARRINHO PASSAGENS</a></li>
+                            <li><hr class="dropdown-divider "></li>
+                            <li><a class="dropdown-item fs-6 text-wrap" asp-controller="Carrinho" asp-action="IndexHoteis"><i class="fa-solid fa-cart-shopping"></i> CARRINHO HOTEIS</a></li>
+                            <li><hr class="dropdown-divider "></li>
+                            <li><a class="dropdown-item fs-6 text-wrap" href="https://pt.delta.com/br/pt/need-help/overview" target="_blank"><i class="fa-solid fa-circle-info"></i> AJUDA</a></li>
+                            <li><hr class="dropdown-divider "></li>
+                            <li><a class="dropdown-item fs-6 text-wrap" asp-controller="TelasBlocos" asp-action="SobreNos"><i class="fa-solid fa-archway"></i> SOBRE NÓS</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
 <div class="container-fluid" style="padding: 0px 80px;">
 
     <div class="col-12" style="margin: 40px 0px">
@@ -121,7 +195,7 @@
 
             </div>
         </div>
-        
+
     </div>
     <p>
         <a asp-action="CriarHoteis">Cadastrar nova passagem</a>

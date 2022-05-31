@@ -4,55 +4,116 @@
     ViewData["Title"] = "CriarHoteis";
 }
 
-<h1>Criar Hoteis</h1>
+<style>
 
-<h4>Hoteis</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="CriarHoteis">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Nome" class="control-label"></label>
-                <input asp-for="Nome" class="form-control" />
-                <span asp-validation-for="Nome" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Cidade" class="control-label"></label>
-                <input asp-for="Cidade" class="form-control" />
-                <span asp-validation-for="Cidade" class="text-danger"></span>
-            </div>
 
-            <div class="form-group">
-                <label asp-for="DataSaida" class="control-label"></label>
-                <input asp-for="DataSaida" class="form-control" />
-                <span asp-validation-for="DataSaida" class="text-danger"></span>
+
+</style>
+ <header>
+        <nav class="navbar navbar-expand-lg " id="nav1" style=" background-image: linear-gradient(to bottom, var(--cor3), var(--cor2));">
+            <!--nav-1-->
+            <div class="container-fluid">
+                <a class="navbar-brand ancora" id="img-header" asp-controller="Passagem" asp-action="Index" style="margin-left: 40px;">
+                    <!--imagem-->
+                    <img src="~/LogoIHC-removebg-preview-removebg-preview.png" alt="Imagem" class="d-inline-block align-text-top" style=" width: 501px; height: 218px; margin-top: 10px; ">
+
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                    <ul class="navbar-nav sm-2" style="padding-right: 80px; font-size: 21px">
+                        <li class="nav-item" style="padding:0 15px 0 15px;">
+                            <a class="nav-link active a ancora ancoravoo" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="Index">
+                                <i class="fa-solid fa-plane"></i> VOOS
+                            </a>
+                        </li>
+                        <li class="nav-item" style="padding:0 15px 0 15px;">
+                            <a class="nav-link active a ancora ancorahotel" aria-current="page" asp-controller="Hoteis" asp-action="Index" id="link-menu">
+                                <i class="fa-solid fa-hotel"></i> HOTEIS
+                            </a>
+                        </li>
+                        <li class="nav-item" style="padding:0 45px 0 15px;">
+                            <a class="nav-link active a ancora " href="#" id="link-menu">
+                                <i class="fa-solid fa-map-location"></i> PACOTES
+                            </a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <!--Dropbox-->
+                            <a class="nav-link active dropdown-toggle ancora" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
+                                MENU
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink" style="height: auto; height: auto; width: 252px;">
+                                <li><a class="dropdown-item fs-6 text-wrap user" asp-controller="Login" asp-action="EntrarLogin"><i class="fa-solid fa-arrow-right-to-bracket"></i> LOGIN</a></li>
+                                <li><hr class="dropdown-divider "></li>
+                                <li> <a class="dropdown-item fs-6 text-wrap" asp-controller="Carrinho" asp-action="Index"><i class="fa-solid fa-cart-shopping"></i> CARRINHO PASSAGENS</a></li>
+                                <li><hr class="dropdown-divider "></li>
+                                <li><a class="dropdown-item fs-6 text-wrap" asp-controller="Carrinho" asp-action="IndexHoteis"><i class="fa-solid fa-cart-shopping"></i> CARRINHO HOTEIS</a></li>
+                                <li><hr class="dropdown-divider "></li>
+                                <li><a class="dropdown-item fs-6 text-wrap" href="https://pt.delta.com/br/pt/need-help/overview" target="_blank"><i class="fa-solid fa-circle-info"></i> AJUDA</a></li>
+                                <li><hr class="dropdown-divider "></li>
+                                <li><a class="dropdown-item fs-6 text-wrap" asp-controller="TelasBlocos" asp-action="SobreNos"><i class="fa-solid fa-archway"></i> SOBRE NÓS</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="DataChegada" class="control-label"></label>
-                <input asp-for="DataChegada" class="form-control" />
-                <span asp-validation-for="DataChegada" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Preco" class="control-label"></label>
-                <input asp-for="Preco" class="form-control" />
-                <span asp-validation-for="Preco" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Detalhes" class="control-label"></label>
-                <input asp-for="Detalhes" class="form-control" />
-                <span asp-validation-for="Detalhes" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Cadastrar Hotel" class="btn btn-primary" />
-            </div>
-        </form>
+        </nav>
+    </header>
+<div class="container-fluid" style="padding: 0px 80px">
+   
+
+    <h1>Criar Hoteis</h1>
+
+    <h4>Hoteis</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="CriarHoteis">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Nome" class="control-label"></label>
+                    <input asp-for="Nome" class="form-control" />
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Cidade" class="control-label"></label>
+                    <input asp-for="Cidade" class="form-control" />
+                    <span asp-validation-for="Cidade" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="DataSaida" class="control-label"></label>
+                    <input asp-for="DataSaida" class="form-control" />
+                    <span asp-validation-for="DataSaida" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DataChegada" class="control-label"></label>
+                    <input asp-for="DataChegada" class="form-control" />
+                    <span asp-validation-for="DataChegada" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Preco" class="control-label"></label>
+                    <input asp-for="Preco" class="form-control" />
+                    <span asp-validation-for="Preco" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Detalhes" class="control-label"></label>
+                    <input asp-for="Detalhes" class="form-control" />
+                    <span asp-validation-for="Detalhes" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Cadastrar Hotel" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Retornar</a>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Retornar</a>
-</div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
