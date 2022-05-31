@@ -4,27 +4,7 @@
         font-family: var(--font-mono);
     }
 
-    nav {
-        background-color: var(--cor0);
-        padding: 10px;
-        box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.356);
-    }
-
-        nav > a {
-            color: white;
-            padding: 10px;
-            text-decoration: none;
-            font-weight: bold;
-            transition-duration: 0.5s; /*qnd colocar o mouse por cima, ele transiciona em 1seg*/
-        }
-
-            nav > a:hover {
-                background-color: var(--cor2);
-                color: #93cfcfe8;
-                border-radius: 3px;
-            }
-
-    main {
+    #mae {
         background-color: white;
         padding: 20px;
         min-width: 300px; /*se for menor do que a largura mínima, a largura será aplicada*/
@@ -36,22 +16,22 @@
         border-bottom-right-radius: 15px;
     }
 
-        main h1 {
-            font-family: var(--fonte-android);
-            color: var(--cor4);
-            font-weight: normal;
-            font-size: 1.8em;
-        }
+    #mae h1 {
+        font-family: var(--fonte-android);
+        color: var(--cor4);
+        font-weight: normal;
+        font-size: 1.8em;
+    }
 
-        main h2 {
-            color: black;
-            font-size: 1.4em;
-            font-weight: bold;
-            text-transform: uppercase;
-            font-family: var(--font-mono);
-            background-image: linear-gradient(to right, var(--cor3), transparent);
-            text-indent: 10px;
-        }
+   #mae h2 {
+        color: black;
+        font-size: 1.4em;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-family: var(--font-mono);
+        background-image: linear-gradient(to right, var(--cor3), transparent);
+        text-indent: 10px;
+    }
 
     figure {
         float: right;
@@ -66,7 +46,7 @@
         margin-top: 20px;
     }
 
-    main p {
+    #mae p {
         margin: 15px 0px 15px 0px;
         text-align: justify;
         text-indent: 30px; /*recuo no inicio do texto*/
@@ -74,12 +54,12 @@
         line-height: 2em; /*altura da linha, entre uma linha e outra*/
     }
 
-    main strong {
+    #mae strong {
         color: var(--cor4);
         font-weight: bold;
     }
 
-    main a {
+    #mae a {
         text-decoration: none;
         color: var(--cor4);
         font-weight: bold;
@@ -87,24 +67,24 @@
         padding: 2px 4px;
     }
 
-        main a::after {
-            content: '\00A0\1F517';
-        }
+    #mae a::after {
+        content: '\00A0\1F517';
+    }
 
-        main a:hover {
-            text-decoration: underline;
-            color: rgb(31, 58, 57)
-        }
+    #mae a:hover {
+        text-decoration: underline;
+        color: rgb(31, 58, 57)
+    }
 
-    main img {
+    #mae img {
         width: 100%;
     }
 
-        main img.pequena {
-            max-width: 300px;
-            display: block; /*para transformar ela em um bloco e centralizar com margin auto*/
-            margin: auto;
-        }
+    #mae img.pequena {
+        max-width: 300px;
+        display: block; /*para transformar ela em um bloco e centralizar com margin auto*/
+        margin: auto;
+    }
 
     div.video {
         background-color: var(--cor2);
@@ -115,22 +95,22 @@
         position: relative;
     }
 
-        div.video > iframe {
-            position: absolute;
-            top: 5%;
-            left: 5%;
-            width: 90%;
-            height: 90%;
-        }
+    div.video > iframe {
+        position: absolute;
+        top: 5%;
+        left: 5%;
+        width: 90%;
+        height: 90%;
+    }
 
-    main aside {
+    #mae aside {
         background-color: var(--cor3);
         padding: 10px;
         border-radius: 10px;
         box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.253);
     }
 
-    main h3 {
+    #mae h3 {
         background-color: var(--cor4);
         color: white;
         padding: 10px;
@@ -138,7 +118,7 @@
         border-radius: 10px 10px 0px 0px;
     }
 
-    main aside ul {
+    #mae aside ul {
         list-style-type: '\1F695\00A0\00A0'; /*trocar a bolinha que fica na frente de cada item - coloca a barra invertida na frente -> \00A0 é um espaço*/
         list-style-position: inside; /*posção da lista - bolinha pro lado de dentro*/
         columns: 2; /*dividir em colunas*/
@@ -176,7 +156,7 @@
                     </li>
                     <li class="nav-item dropdown">
                         <!--Dropbox-->
-                        <a class="nav-link active dropdown-toggle ancora" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
+                        <a class="nav-link active dropdown-toggle ancora  ancoramenu" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
                             MENU
                         </a>
                         <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink" style="height: auto; height: auto; width: 252px;">
@@ -197,86 +177,87 @@
     </nav>
 </header>
 
+<div id="mae">
+    <div class="container-fluid" style="padding:0px 30px;">
+        <h1>Principais áreas do Hotel Pouso Alegre </h1>
 
-<div class="container-fluid" style="padding:0px 30px;">
-    <h1>Principais áreas do Hotel Pouso Alegre </h1>
+        <span class="material-icons">star</span> <span class="material-icons">star</span> <span class="material-icons">star</span><span class="material-icons">star_outline</span> <span class="material-icons">star_outline</span>
 
-    <span class="material-icons">star</span> <span class="material-icons">star</span> <span class="material-icons">star</span><span class="material-icons">star_outline</span> <span class="material-icons">star_outline</span>
+        <p>O <strong>Hotel Pouso Alegre</strong> Localizado no bairro Ipiranga, seja para uma viagem de negócios ou lazer, o ibis Pouso Alegre está pronto para recebê-lo. Os quartos são aconchegantes, acomodam casais, solteiros e famílias. Além de terem ar condicionado e wi-fi gratuito. Aprecie a comida mineira no café da manhã, almoço e jantar opcionais em um terraço com uma bela vista. O bar serve lanches e drinks. O hotel também possui uma moderna academia, sala de passadoria e estacionamento gratuito 24 horas. E seu cão é bem-vindo, mediante taxas.</p>
 
-    <p>O <strong>Hotel Pouso Alegre</strong> Localizado no bairro Ipiranga, seja para uma viagem de negócios ou lazer, o ibis Pouso Alegre está pronto para recebê-lo. Os quartos são aconchegantes, acomodam casais, solteiros e famílias. Além de terem ar condicionado e wi-fi gratuito. Aprecie a comida mineira no café da manhã, almoço e jantar opcionais em um terraço com uma bela vista. O bar serve lanches e drinks. O hotel também possui uma moderna academia, sala de passadoria e estacionamento gratuito 24 horas. E seu cão é bem-vindo, mediante taxas.</p>
+        <p>A Paroquia Sao Joao Batista fica a 2.4 km da acomodação, enquanto a Igreja de Sao Benedito fica a 350 metros de distância. A propriedade está situada a 1 km do centro da cidade de Pouso Alegre. Uma curta distância de carro até a Ceasa é uma vantagem para os hóspedes do Jb Palace.</p>
 
-    <p>A Paroquia Sao Joao Batista fica a 2.4 km da acomodação, enquanto a Igreja de Sao Benedito fica a 350 metros de distância. A propriedade está situada a 1 km do centro da cidade de Pouso Alegre. Uma curta distância de carro até a Ceasa é uma vantagem para os hóspedes do Jb Palace.</p>
+        <h2>Quarto de Luxo - Executivo</h2>
 
-    <h2>Quarto de Luxo - Executivo</h2>
+        <figure>
+            <img src="~/imgHotel/Quarto-HOtel.jpg" alt="Quarto-Hotel" class="scaled" title="Quarto Executivo">
+            <figcaption>Quarto Executivo</figcaption>
+        </figure>
 
-    <figure>
-        <img src="~/imgHotel/Quarto-HOtel.jpg" alt="Quarto-Hotel" class="scaled" title="Quarto Executivo">
-        <figcaption>Quarto Executivo</figcaption>
-    </figure>
+        <p>Se hospedar em um hotel ibis em Pouso Alegre dá a chance de conhecer vários pontos turísticos da cidade. Visite o Centro Cultural de Pouso Alegre, a 18 minutos de carro do hotel, cercado de várias atrações como a Catedral Metropolitana e o República Bar. Passeie pelo Parque Natural Municipal de Pouso Alegre, a 17 minutos de carro do hotel. Aproveite sua hospedagem para saborear os cafés regionais que têm se destacado no cenário nacional e internacional.</p>
 
-    <p>Se hospedar em um hotel ibis em Pouso Alegre dá a chance de conhecer vários pontos turísticos da cidade. Visite o Centro Cultural de Pouso Alegre, a 18 minutos de carro do hotel, cercado de várias atrações como a Catedral Metropolitana e o República Bar. Passeie pelo Parque Natural Municipal de Pouso Alegre, a 17 minutos de carro do hotel. Aproveite sua hospedagem para saborear os cafés regionais que têm se destacado no cenário nacional e internacional.</p>
+        <p>s hóspedes podem desfrutar da cozinha leste européia e européia central no Kafana dentro de 5 minutos a pé da propriedade. Este hotel está localizado a 130 km do aeroporto.</p>
 
-    <p>s hóspedes podem desfrutar da cozinha leste européia e européia central no Kafana dentro de 5 minutos a pé da propriedade. Este hotel está localizado a 130 km do aeroporto.</p>
+        <!-- <picture>
+            <source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">
+            <img src="imagens/dan-droids.png" alt="Primeiro mascote do Android" title="Bonecos Android">
+        </picture> -->
 
-    <!-- <picture>
-        <source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">
-        <img src="imagens/dan-droids.png" alt="Primeiro mascote do Android" title="Bonecos Android">
-    </picture> -->
+        <h2>Restaurante Thornstroms Kok</h2>
 
-    <h2>Restaurante Thornstroms Kok</h2>
+        <figure>
+            <img src="~/imgHotel/CozinhaHotel.jpg" alt="CozinhaHotel" class="scaled" title="Cozinha Hotel">
+            <figcaption>Cozinha Européia - Na Esquina do Hotel</figcaption>
+        </figure>
 
-    <figure>
-        <img src="~/imgHotel/CozinhaHotel.jpg" alt="CozinhaHotel" class="scaled" title="Cozinha Hotel">
-        <figcaption>Cozinha Européia - Na Esquina do Hotel</figcaption>
-    </figure>
+        <p>O Thornstroms Kok é um restaurante aconchegante e luxuoso ao mesmo tempo, tem como lema “quanto melhor a comida, melhor a vida” e, por isso, proporciona a melhor experiência da culinária escandinava e da Suécia. Utilizando de seus próprios ingredientes e cuidando com excelência da combinação das bebidas com cada prato, cativa os clientes.</p>
 
-    <p>O Thornstroms Kok é um restaurante aconchegante e luxuoso ao mesmo tempo, tem como lema “quanto melhor a comida, melhor a vida” e, por isso, proporciona a melhor experiência da culinária escandinava e da Suécia. Utilizando de seus próprios ingredientes e cuidando com excelência da combinação das bebidas com cada prato, cativa os clientes.</p>
+        <p>O restaurante promove toda quarta-feira uma surpresa gastronômica, com temas diferenciados no bar do chef, convidados especiais, produtores de vinho para diversificar a experiência de quem aprecia surpresas agradáveis.</p>
 
-    <p>O restaurante promove toda quarta-feira uma surpresa gastronômica, com temas diferenciados no bar do chef, convidados especiais, produtores de vinho para diversificar a experiência de quem aprecia surpresas agradáveis.</p>
+        <h2>Estrutuar de Lazer do Hotel</h2>
 
-    <h2>Estrutuar de Lazer do Hotel</h2>
+        <figure>
+            <img src="~/imgHotel/EstruturaHOtel.jpg" alt="EstruturaHOtel" class="scaled" title="Estrutura interna do hotel">
+            <figcaption>Estrutura Interna do Hotel</figcaption>
+        </figure>
 
-    <figure>
-        <img src="~/imgHotel/EstruturaHOtel.jpg" alt="EstruturaHOtel" class="scaled" title="Estrutura interna do hotel">
-        <figcaption>Estrutura Interna do Hotel</figcaption>
-    </figure>
+        <p>O Hotel Pouso Alegre oferece uma estrutura moderna e aconchegante para maximizar sua hospedagem, seja um passeio em família ou negócios na região. Além de ser bem localizado e ter um ótimo custo-benefício</p>
 
-    <p>O Hotel Pouso Alegre oferece uma estrutura moderna e aconchegante para maximizar sua hospedagem, seja um passeio em família ou negócios na região. Além de ser bem localizado e ter um ótimo custo-benefício</p>
+        <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/AxdDLUwJXkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
 
-    <div class="video">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/AxdDLUwJXkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <aside>
+            <h3>Quer saber mais?</h3>
+
+            <p>Trata-se de uma das capitais mais bonitas e com melhor qualidade de vida do Brasil. A cidade une uma estrutura moderna e praias incríveis, e quem visita fica até perdido em meio a tantas opções para conhecer. Como por exemplo:</p>
+
+            <ul>
+                <li>1- <abbr title="Praça XV de Novembro">Praça XV de Novembro</abbr></li>
+                <li>2 - <abbr title="Catedral Metropolitana">Catedral Metropolitana</abbr></li>
+
+                <li>3 - <abbr title="Campeche">Campeche</abbr></li>
+                <li>4 - <abbr title="Praia Mole">Praia Mole</abbr></li>
+                <li>5 - <abbr title="Morro da Cruz">Morro da Cruz</abbr></li>
+                <li>6 - <abbr title="Barra da Loagoa">Barra da Lagoa</abbr></li>
+            </ul>
+
+            <p>
+                Para finalizar, é importante que você leia o artigo
+                <a href=" https://www.queroviajarmais.com/quanto-gasto-em-florianopolis/" target="_blank" style="font-style: italic;">quanto gasto no Hotel Pouso Alegre</a>, onde é possível ter uma noção muito boa do custo de uma viagem para a cidade em cada item fundamental, como passagem aérea, hospedagem, alimentação, passeios e transporte.
+            </p>
+            <p>
+                Paneje-se bem, pois aí é só chegar eno Hotel e curtir!
+            </p>
+
+        </aside>
+
+        <p>
+            <a href="https://www.queroviajarmais.com/principais-pontos-turisticos-florianopolis/" target="_blank" style="text-align: center;">
+                Fonte: https://www.queroviajarmais.com/principais-pontos-turisticos-florianopolis/
+
+            </a>
+        </p>
+        </article>
     </div>
-
-    <aside>
-        <h3>Quer saber mais?</h3>
-
-        <p>Trata-se de uma das capitais mais bonitas e com melhor qualidade de vida do Brasil. A cidade une uma estrutura moderna e praias incríveis, e quem visita fica até perdido em meio a tantas opções para conhecer. Como por exemplo:</p>
-
-        <ul>
-            <li>1- <abbr title="Praça XV de Novembro">Praça XV de Novembro</abbr></li>
-            <li>2 - <abbr title="Catedral Metropolitana">Catedral Metropolitana</abbr></li>
-
-            <li>3 - <abbr title="Campeche">Campeche</abbr></li>
-            <li>4 - <abbr title="Praia Mole">Praia Mole</abbr></li>
-            <li>5 - <abbr title="Morro da Cruz">Morro da Cruz</abbr></li>
-            <li>6 - <abbr title="Barra da Loagoa">Barra da Lagoa</abbr></li>
-        </ul>
-
-        <p>
-            Para finalizar, é importante que você leia o artigo
-            <a href=" https://www.queroviajarmais.com/quanto-gasto-em-florianopolis/" target="_blank" style="font-style: italic;">quanto gasto no Hotel Pouso Alegre</a>, onde é possível ter uma noção muito boa do custo de uma viagem para a cidade em cada item fundamental, como passagem aérea, hospedagem, alimentação, passeios e transporte.
-        </p>
-        <p>
-            Paneje-se bem, pois aí é só chegar eno Hotel e curtir!
-        </p>
-
-    </aside>
-
-    <p>
-        <a href="https://www.queroviajarmais.com/principais-pontos-turisticos-florianopolis/" target="_blank" style="text-align: center;">
-            Fonte: https://www.queroviajarmais.com/principais-pontos-turisticos-florianopolis/
-
-        </a>
-    </p>
-    </article>
 </div>
