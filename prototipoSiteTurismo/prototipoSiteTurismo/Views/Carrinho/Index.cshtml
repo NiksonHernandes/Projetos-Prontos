@@ -105,11 +105,11 @@
                             </th>
                             <th>
 
-                                <span @Html.DisplayNameFor(model => model.DataSaida)> SAÍDA</span>
+                                <span @Html.DisplayNameFor(model => model.DataSaida)>DATA SAÍDA</span>
                             </th>
                             <th>
 
-                                <span @Html.DisplayNameFor(model => model.DataChegada)> RETORNO </span>
+                                <span @Html.DisplayNameFor(model => model.DataChegada)>DATA RETORNO </span>
                             </th>
                             <th>
 
@@ -153,25 +153,46 @@
                                         Deletar Passagem
                                     </a>
                                 </td>
+
                             </tr>
+
                         }
+
                     </tbody>
+
                 </table>
+
                 <a class="btn material-icons" asp-controller="Passagem" asp-action="PesquisarPassagem" title="Retornar para as passagens">
                     west
                 </a>
                 <a class="btn material-icons" asp-controller="Login" asp-action="Logoff" title="Sair da sua conta">
                     logout
                 </a>
+
+
+
             </div>
+            <a id="btn-compra" class="btn btn-success " asp-controller="Passagem" asp-action="Index" type="button" style="font-size: 20px">
+                Finalizar compra
+            </a>
         </div>
     </div>
 
 
     <p>
         <a asp-action="Create">Create New</a>
+        
 
     </p>
 </div>
+<script>
+    window.onload = () => {
+        document.getElementById("btn-compra").onclick = () => {
+            alert("COMPRA EFETUADA! \n\nAguarde o boleto de pagamento ser enviado no seu e-mail cadastrado no login.\n\nObrigado por comprar a POUSAR.COM");
+            
+        }
+    }
 
+
+</script>
 
