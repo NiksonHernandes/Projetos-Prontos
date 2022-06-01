@@ -1,0 +1,288 @@
+﻿<style>
+
+    body {
+        background-color: var(--cor2);
+    }
+
+    .ancora {
+        /*//text-decoration: none;*/
+        color: black;
+    }
+
+    .imagem-fundo {
+        min-height: 57vh;
+        max-height: 95vh;
+        box-shadow: inset 0 0 1px black;
+        border: 1px solid rgb(185, 185, 185);
+        background-color: antiquewhite;
+        background-image: url("wallpaper002.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed; /*deixa a imagem sem rolagem*/
+    }
+
+    #voos50porcento {
+        font-size: x-large;
+        font-weight: bold;
+        color: black;
+        margin: 20px 0px 10px 0px;
+    }
+
+    .imagem-card-viagem {
+        box-shadow: 2px 1px 5px black;
+        border: 1px solid rgb(185, 185, 185);
+        background-color: antiquewhite;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 340px;
+        height: 400px;
+        /*background-attachment: fixed; deixa a imagem sem rolagem*/
+    }
+
+    .imagem-anuncio {
+        box-shadow: 2px 2px 5px -3px black;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 105px;
+    }
+
+    .imagem-anuncio-fim {
+        height: 150px;
+        box-shadow: 2px 2px 5px -3px black;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .imagemteste {
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #nav1 {
+        background-image: linear-gradient(#e3ffff, aliceblue);
+        box-shadow: 0px 0px 10px black;
+        height: 70px;
+    }
+
+    #img-header {
+        font-size: 30px;
+        margin-left: 18px;
+    }
+
+    header nav div div ul li a.nav-link.active.a:hover {
+        color: red;
+    }
+
+    .boxfooter {
+        background-image: linear-gradient(var(--cor2), white);
+    }
+
+    #text-hover-centralajuda a {
+        color: white;
+        padding-right: 70px;
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+
+    #text-hover-centralajuda:hover a {
+        color: white;
+        padding-right: 70px;
+        font-size: 23px;
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+
+
+    /***/
+    #nav1 {
+        background-image: linear-gradient(to bottom, var(--cor3), var(--cor2));
+        box-shadow: 0px 0px 10px black;
+        height: 70px;
+        font-family: var(--fonte-mono);
+        font-weight: bold;
+    }
+
+    #img-header {
+        font-size: 30px;
+        margin-left: 18px;
+    }
+
+    header nav div div ul li a.nav-link.active.a:hover {
+        font-size: 22px;
+        color: #2638AD;
+    }
+
+    .ancorapacotes {
+        color: #2086BA;
+        text-decoration: underline;
+        text-decoration-thickness: 3px;
+    }
+
+    .dropdown-item {
+        padding: 4px 10px 4px 10px;
+        font-weight: bold;
+    }
+
+
+</style>
+
+
+<header>
+    <nav class="navbar navbar-expand-lg " id="nav1" style=" background-image: linear-gradient(to bottom, var(--cor3), var(--cor2));">
+        <!--nav-1-->
+        <div class="container-fluid">
+            <a class="navbar-brand ancora" id="img-header" asp-controller="Passagem" asp-action="Index" style="margin-left: 40px;">
+                <!--imagem-->
+                <img src="~/LogoIHC-removebg-preview-removebg-preview.png" alt="Imagem" class="d-inline-block align-text-top" style=" width: 450px; height: 200px; margin-top: 10px; ">
+
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                <ul class="navbar-nav sm-2" style="padding-right: 80px; font-size: 21px">
+                    <li class="nav-item" style="padding:0 15px 0 15px;">
+                        <a class="nav-link active a ancora ancoravoo" aria-current="page" id="link-menu" asp-controller="Passagem" asp-action="Index">
+                            <i class="fa-solid fa-plane"></i> VOOS
+                        </a>
+                    </li>
+                    <li class="nav-item" style="padding:0 15px 0 15px;">
+                        <a class="nav-link active a ancora ancorahotel" aria-current="page" asp-controller="Hoteis" asp-action="Index" id="link-menu">
+                            <i class="fa-solid fa-hotel"></i> HOTEIS
+                        </a>
+                    </li>
+                    <li class="nav-item" style="padding:0 45px 0 15px;">
+                        <a class="nav-link active a ancora ancorapacotes" href="#" id="link-menu">
+                            <i class="fa-solid fa-map-location"></i> PACOTES
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <!--Dropbox-->
+                        <a class="nav-link active dropdown-toggle ancora" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
+                            MENU
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink" style="height: auto; height: auto; width: 252px;">
+                            <li><a class="dropdown-item fs-6 text-wrap user" asp-controller="Login" asp-action="EntrarLogin"><i class="fa-solid fa-arrow-right-to-bracket"></i> LOGIN</a></li>
+                            <li><hr class="dropdown-divider "></li>
+                            <li> <a class="dropdown-item fs-6 text-wrap" asp-controller="Carrinho" asp-action="Index"><i class="fa-solid fa-cart-shopping"></i> CARRINHO PASSAGENS</a></li>
+                            <li><hr class="dropdown-divider "></li>
+                            <li><a class="dropdown-item fs-6 text-wrap" asp-controller="Carrinho" asp-action="IndexHoteis"><i class="fa-solid fa-cart-shopping"></i> CARRINHO HOTEIS</a></li>
+                            <li><hr class="dropdown-divider "></li>
+                            <li><a class="dropdown-item fs-6 text-wrap" href="https://pt.delta.com/br/pt/need-help/overview" target="_blank"><i class="fa-solid fa-circle-info"></i> AJUDA</a></li>
+                            <li><hr class="dropdown-divider "></li>
+                            <li><a class="dropdown-item fs-6 text-wrap" asp-controller="TelasBlocos" asp-action="SobreNos"><i class="fa-solid fa-archway"></i> SOBRE NÓS</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="container-fluid" style="padding: 0px 195px">
+
+    <div class="row">
+        @*Anuncie aqui*@
+        <div class="col-12 " style="margin:40px 0px 40px 0px;">
+            <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('/anuncie-aqui5.jpg');">
+                <div class="card-body">
+                    <p class="card-text text-right font-italic font-weight-bold" style="color: white; text-shadow: 0 0 3px black; padding-right: 70px; font-size: 35px; margin-top: 9px;">POUSAR.COM</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <p id="voos50porcento">PRÓXIMOS COMBOS DE OFERTAS - DE 05/06/2022 ATÉ 07/06/2022</p>
+    @*PARTE 1*@
+    <div class="row justify-content-md-center">
+        <div class="col-6" style="margin:20px 0px 20px 0px;">
+
+            <div class="card mb-3" style="border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
+                <div class="row no-gutters">
+                    <div class="col-5 col-md-4 imagemteste" style="background-image: url('/anuncie-aqui1.jpg'); border-radius: 17px 0px 0px 17px;">
+                    </div>
+                    <div class="col-7 col-md-8">
+                        <div class="card-body ">
+                            <h3 class="card-title" style=" font-weight: bold">PACOTES HOTEL - LOKATE PLAZA</h3>
+                            <p class="card-text" style="color: black;">de <s>R$ 550,00</s> por apenas </p>
+                            <a class="card-text" style="color: black; font-size: 25px; font-weight: bold">R$ 350,00 </a>  <i class="fa-solid fa-tags" style="font-size: 25px"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-6" style="margin:20px 0px 20px 0px;">
+            <div class="card mb-3" style=" border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
+                <div class="row no-gutters">
+                    <div class="col-5 col-md-4 imagemteste" style="background-image: url('/anuncie-aqui12.jpg'); border-radius: 17px 0px 0px 17px;">
+                    </div>
+                    <div class="col-7 col-md-8">
+                        <div class="card-body ">
+                            <h3 class="card-title" style=" font-weight: bold">PACOTES TURISMO - DISNEY</h3>
+                            <p class="card-text" style="color: black;">de <s>R$ 5.990,00</s> por apenas </p>
+                            <a class="card-text" style="color: black; font-size: 25px; font-weight: bold">R$ 4.550,00 </a>  <i class="fa-solid fa-tags" style="font-size: 25px"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @*PARTE 2*@
+    <div class="row justify-content-md-center">
+        <div class="col-6" style="margin:20px 0px 20px 0px;">
+
+            <div class="card mb-3" style="border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
+                <div class="row no-gutters">
+                    <div class="col-5 col-md-4 imagemteste" style="background-image: url('/anuncie-aqui3.jpg'); border-radius: 17px 0px 0px 17px;">
+                    </div>
+                    <div class="col-7 col-md-8">
+                        <div class="card-body ">
+                            <h3 class="card-title" style=" font-weight: bold">PACOTES RESORT - ECO RESORT</h3>
+                            <p class="card-text" style="color: black;">de <s>R$ 850,00</s> por apenas </p>
+                            <a class="card-text" style="color: black; font-size: 25px; font-weight: bold">R$ 650,00 </a>  <i class="fa-solid fa-tags" style="font-size: 25px"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-6" style="margin:20px 0px 20px 0px;">
+            <div class="card mb-3" style=" border-radius: 17px; box-shadow: 2px 2px 5px -3px black;">
+                <div class="row no-gutters">
+                    <div class="col-5 col-md-4 imagemteste" style="background-image: url('/anuncie-aqui4.jpg'); border-radius: 17px 0px 0px 17px;">
+                    </div>
+                    <div class="col-7 col-md-8">
+                        <div class="card-body ">
+                            <h3 class="card-title" style=" font-weight: bold">PACOTES TOUR - DISC SNOWBOARD</h3>
+                            <p class="card-text" style="color: black;">de <s>R$ 3.750,00</s> por apenas </p>
+                            <a class="card-text" style="color: black; font-size: 25px; font-weight: bold">R$ 2.420,00 </a>  <i class="fa-solid fa-tags" style="font-size: 25px"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="row ">
+        <!--Anuncie aqui-->
+        <div class="col-12" style="margin:40px 0px 40px 0px;">
+            <div class="card imagem-anuncio" style=" border-radius: 17px; text-shadow: 0 0 3px white; background-image: url('/AviaoRastro.jpg'); ">
+                <div class="card-body">
+                    <p class="card-text text-right font-italic font-weight-bold" style="color: black; padding-right: 70px; font-size: 25px; margin-top: 12px;">ANUNCIE AQUI</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>

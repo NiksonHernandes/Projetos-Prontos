@@ -21,5 +21,12 @@ namespace prototipoSiteTurismo.Controllers
         {
             return View();
         }
+
+        public IActionResult Pacotes()
+        {
+            return View();
+        }
+
+
     }
 }
