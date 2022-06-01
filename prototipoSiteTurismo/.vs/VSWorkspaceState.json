@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\prototipoSiteTurismo",
-    "\\prototipoSiteTurismo\\Controllers",
     "\\prototipoSiteTurismo\\Migrations",
     "\\prototipoSiteTurismo\\Views",
     "\\prototipoSiteTurismo\\Views\\Carrinho",
     "\\prototipoSiteTurismo\\Views\\Hoteis",
     "\\prototipoSiteTurismo\\Views\\Login",
     "\\prototipoSiteTurismo\\Views\\Passagem",
-    "\\prototipoSiteTurismo\\Views\\Shared"
+    "\\prototipoSiteTurismo\\Views\\Shared",
+    "\\prototipoSiteTurismo\\Views\\TelasBlocos"
   ],
-  "SelectedNode": "\\prototipoSiteTurismo\\prototipoSiteTurismo.sln",
+  "SelectedNode": "\\prototipoSiteTurismo\\Views\\TelasBlocos\\Hotel.cshtml",
   "PreviewInSolutionExplorer": false
 }
