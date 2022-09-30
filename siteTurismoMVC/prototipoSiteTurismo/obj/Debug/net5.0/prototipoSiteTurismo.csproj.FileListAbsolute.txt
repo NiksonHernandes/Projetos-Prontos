@@ -1,0 +1,1156 @@
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.json
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.deps.json
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.json
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.Manifest.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.xml
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\scopedcss\bundle\prototipoSiteTurismo.styles.css
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.input.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.output.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorCoreGenerate.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\PesquisarPassagem.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\CriarPassagem.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.json
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.exe
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.deps.json
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.json
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.dev.json
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.AssemblyReference.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfoInputs.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfo.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CoreCompileInputs.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.Manifest.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.xml
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\scopedcss\bundle\prototipoSiteTurismo.styles.css
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.input.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.output.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorCoreGenerate.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\CriarPassagem.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\PesquisarPassagem.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cache
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cs
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CopyComplete
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\Nikson\Desktop\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.genruntimeconfig.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.json
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.exe
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.deps.json
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.json
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.dev.json
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.AssemblyReference.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfoInputs.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfo.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CoreCompileInputs.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.Manifest.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.xml
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\scopedcss\bundle\prototipoSiteTurismo.styles.css
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.input.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.output.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorCoreGenerate.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\CriarPassagem.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\Index.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\PesquisarPassagem.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cache
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cs
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CopyComplete
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\0220482113025\Desktop\C#\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.genruntimeconfig.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.Development.json
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.json
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.exe
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.deps.json
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.json
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.dev.json
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ref\prototipoSiteTurismo.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.pdb
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Google.Protobuf.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Humanizer.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.Data.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ZstdNet.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.AssemblyReference.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.GeneratedMSBuildEditorConfig.editorconfig
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfoInputs.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfo.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CoreCompileInputs.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.MvcApplicationPartsAssemblyInfo.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.Manifest.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.xml
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\scopedcss\bundle\prototipoSiteTurismo.styles.css
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.input.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.output.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorCoreGenerate.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\CriarPassagem.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\Index.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\PesquisarPassagem.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cache
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cs
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CopyComplete
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\ref\prototipoSiteTurismo.dll
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.pdb
+E:\LinguagemCSharp\Tela-floripa\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.genruntimeconfig.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.json
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.exe
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.deps.json
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.json
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.dev.json
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.AssemblyReference.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfoInputs.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfo.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CoreCompileInputs.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.Manifest.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.xml
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\scopedcss\bundle\prototipoSiteTurismo.styles.css
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.input.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.output.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorCoreGenerate.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\CriarPassagem.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\PesquisarPassagem.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CopyComplete
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.genruntimeconfig.cache
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\PesquisarHoteis.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\CriarHoteis.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\EditarHoteis.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\EditarPassagem.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\CriarLogin.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\EntrarLogin.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.json
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.exe
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.deps.json
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.json
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.dev.json
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.AssemblyReference.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfoInputs.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfo.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CoreCompileInputs.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.Manifest.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.xml
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\scopedcss\bundle\prototipoSiteTurismo.styles.css
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.input.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.output.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorCoreGenerate.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\CriarHoteis.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\EditarHoteis.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\Index.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\PesquisarHoteis.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\CriarLogin.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\EntrarLogin.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\CriarPassagem.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\EditarPassagem.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\Index.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\PesquisarPassagem.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cache
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cs
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CopyComplete
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\0220482113025\Desktop\Prototipo-BackEnd\Prototipo\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\CriarHoteis.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\EditarHoteis.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\Index.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\CriarLogin.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\EntrarLogin.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\EditarPassagem.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\Florianopolis.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\SobreNos.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\Delete.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\IndexHoteis.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\PesquisarHoteis.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\DeleteHotel.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\Hotel.cshtml.g.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\Projetos Prontos\prototipoSiteTurismo\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\Pacotes.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\appsettings.json
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.exe
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.deps.json
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.json
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.runtimeconfig.dev.json
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ref\prototipoSiteTurismo.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.pdb
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.AssemblyReference.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfoInputs.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.AssemblyInfo.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CoreCompileInputs.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorAssemblyInfo.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.Manifest.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\staticwebassets\prototipoSiteTurismo.StaticWebAssets.xml
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\scopedcss\bundle\prototipoSiteTurismo.styles.css
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.input.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.TagHelpers.output.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorCoreGenerate.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\Delete.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\DeleteHotel.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Carrinho\IndexHoteis.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\CriarHoteis.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\EditarHoteis.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Hoteis\PesquisarHoteis.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\CriarLogin.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\EntrarLogin.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\CriarPassagem.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\EditarPassagem.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\Index.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Passagem\PesquisarPassagem.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\Florianopolis.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\Hotel.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\Pacotes.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\TelasBlocos\SobreNos.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cache
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.RazorTargetAssemblyInfo.cs
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.Views.pdb
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.csproj.CopyComplete
+C:\Users\Nikson\Desktop\siteTurismoMVC\prototipoSiteTurismo\obj\Debug\net5.0\prototipoSiteTurismo.genruntimeconfig.cache
