@@ -1,0 +1,86 @@
+body{
+    background-color: blanchedalmond;
+}
+
+div#container{
+
+    background-color: rgb(0, 133, 133);
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+
+}
+
+div#visor{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: right;
+}
+
+
+div.digitos{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #a8b9a8;
+    color: white;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+    box-shadow: 1px 1px 3px black;
+    border-radius: 5px;
+    margin-top: 5px;
+
+    display: inline-block;
+}
+
+
+div.digitos:hover{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #768376;
+    color: white;
+    height: 49px;
+    width: 50px;
+    text-align: center;
+    line-height: 49px;
+    box-shadow: 2px 2px 2px black;
+    border-radius: 5px;
+    margin-top: 5px;
+
+    display: inline-block;
+}
+
+div.digitos:active{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(79, 160, 79);
+    color: white;
+    height: 49px;
+    width: 50px;
+    text-align: center;
+    line-height: 49px;
+    box-shadow: 2px 2px 2px black;
+    border-radius: 5px;
+    margin-top: 5px;
+
+    display: inline-block;
+}
+
+/*div#digito0{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(129, 183, 129);
+    color: white;
+    height: 50px;
+    width: 105px;
+    text-align: center;
+    line-height: 50px;
+    box-shadow: 1px 1px 3px black;
+    margin-top: 5px;
+    display: inline-block;
+}/*
