@@ -3,6 +3,15 @@ let lista = document.querySelector("select#listar");
 let resultado = document.querySelector("div#res");
 let valores = [];
 
+const form = document.querySelector("form");
+//alterar tema
+function cinza(){
+    document.body.style.backgroundColor = "gray";
+}
+
+function azul(){
+    document.body.style.backgroundColor = "#70d8dc";
+}
 
 function isNumero(x) {
     if (Number(x) >= 1 && Number(x) <= 100) {

@@ -18,8 +18,27 @@
             Número (entre 1 e 100): 
             <input name="iNum"  type="number" placeholder="Escreva aqui" id="fnum">
             <button type="button" onclick="adicionar()">Adicionar</button>
-            <br> <br> <select name="listar" id="listar" size="6"></select>
-            <br><br><button type="button" onclick="organizar()">Organizar</button>
+            <br> <br> <select name="listar" id="listar" size="6"></select>      
+            <br><br><button type="button" onclick="organizar()">Organizar</button> 
+            <br><br>
+
+            <fieldset>
+                <legend>Selecione o tema:</legend>
+
+                <div>
+                    <input type="radio" name="drone" value="cinza" onchange="cinza()"
+                            checked>
+                    <label for="cinza">Tema Cinza</label>
+                </div>
+            
+                <div>
+                    <input type="radio" name="drone" value="azul"onchange="azul()">
+                    <label for="preto">Tema Azul</label>
+                </div>
+        
+            </fieldset>
+            
+
         </div>
         <div id="res">
 
