@@ -22,8 +22,6 @@ namespace prototipoSiteTurismo.Controllers
             return View();
         }
 
-
-
         //if (string.IsNullOrEmpty(texto_input))
         //    {
         //        db.PASSAGEM.ToList();
